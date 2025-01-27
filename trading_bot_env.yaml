@@ -1,8 +1,10 @@
 # Conda 환경 파일
 # 이 파일은 Conda를 사용하여 AI/ML 기반 자동화 트레이딩 시스템 개발에 필요한 환경을 생성합니다.
+# yaml파일 업데이트 시 : conda env update -f trading_bot_env.yaml --prune
 
 name: trading_bot_env  # 환경 이름
 channels:
+  - conda-forge  # 최신 패키지 및 추가 지원 채널
   - defaults       # Conda 기본 채널
 dependencies:
   - python=3.9     # Python 버전
@@ -11,7 +13,7 @@ dependencies:
   - scikit-learn   # 머신러닝 라이브러리
   - tensorflow     # 딥러닝 및 머신러닝 프레임워크
   - matplotlib     # 데이터 시각화
-  - ccxt           # 암호화폐 거래소 통합 라이브러리
+ # - ccxt           # 암호화폐 거래소 통합 라이브러리
   - streamlit      # 데이터 애플리케이션 UI 개발 도구
   - pyyaml         # YAML 파일 작업ㄴ
   - pytest         # 테스트 프레임워크
