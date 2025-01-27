@@ -124,4 +124,7 @@ def calculate_signal_strength(signal: list) -> float:
 - [Pandas Documentation](https://pandas.pydata.org/)
 - [NumPy Documentation](https://numpy.org/)
 - Docs/Plan/Phase1/module_data.md
-
+- Docs/Plan/Phase1/module_indicators.md 
+- Docs/Plan/Phase1/module_signals.md
+- Docs/Plan/Phase1/module_execution.md
+- Docs/Plan/Phase1/module_uiux.md

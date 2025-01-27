@@ -121,3 +121,8 @@ signals/generator.py → signals/risk_management.py → execution/order_manager.
 ## 📘 참고 문서 및 링크
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Binance API Documentation](https://binance-docs.github.io/apidocs/)
+- Docs/Plan/Phase1/module_data.md
+- Docs/Plan/Phase1/module_indicators.md
+- Docs/Plan/Phase1/module_signals.md
+- Docs/Plan/Phase1/module_execution.md
+- Docs/Plan/Phase1/module_uiux.md

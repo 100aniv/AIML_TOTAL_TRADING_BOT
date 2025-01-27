@@ -1,0 +1,12 @@
+# 이 파일은 프로젝트 실행에 필요한 Python 패키지를 정의합니다.
+# 아래 패키지들은 Conda 환경에서 pip를 사용하여 설치됩니다.
+
+numpy           # 과학 계산 및 배열 연산을 위한 라이브러리
+pandas          # 데이터 조작 및 분석 라이브러리
+scikit-learn    # 머신러닝 라이브러리
+tensorflow      # 딥러닝 및 머신러닝 프레임워크
+matplotlib      # 데이터 시각화 라이브러리
+ccxt            # 암호화폐 거래소 통합 라이브러리
+streamlit       # 데이터 애플리케이션 UI 개발 도구
+pyyaml          # YAML 파일 작업을 위한 라이브러리
+pytest          # 테스트 프레임워크
