@@ -1,12 +1,13 @@
-📁 Docs/Plan/Phase1/README.md
-📌 Phase 1: 기본 시스템 구축
-📌 목적
-거래소 데이터를 수집하고, 기본적인 기술적 지표를 계산하며, 간단한 매매 신호를 생성 및 실행.
-데이터 기반의 프로토타입 트레이딩 시스템을 구축하여 전체 시스템 개발의 기초를 마련.
-📂 디렉터리 구조
-plaintext
-복사
-편집
+## 📁 Docs/Plan/Phase1/README.md
+
+### 📌 Phase 1: 기본 시스템 구축
+
+### 📌 목적
+- 거래소 데이터를 수집하고, 기본적인 기술적 지표를 계산하며, 간단한 매매 신호를 생성 및 실행.
+- 데이터 기반의 프로토타입 트레이딩 시스템을 구축하여 전체 시스템 개발의 기초를 마련.
+
+### 📂 디렉터리 구조
+```plaintext
 Docs/
 └── Plan/
     └── Phase1/
@@ -28,14 +29,14 @@ project/
 │   ├── risk_management.py     # 리스크 관리
 ├── execution/
 │   ├── order_manager.py       # 매수/매도 주문 실행
-🛠️ 주요 모듈과 함수
-1️⃣ Data 모듈
+```
+
+### 🛠️ 주요 모듈과 함수
+1️⃣ **Data 모듈**
 (1) collector.py
 기능: 거래소 API(CCXT 등)를 통해 과거 데이터를 수집.
 주요 함수:
-python
-복사
-편집
+```python
 def fetch_historical_data(exchange_name, symbol, timeframe, since):
     """
     거래소에서 과거 데이터를 수집.
@@ -50,9 +51,7 @@ def fetch_historical_data(exchange_name, symbol, timeframe, since):
 (2) data_storage.py
 기능: 수집된 데이터를 SQLite 데이터베이스에 저장.
 주요 함수:
-python
-복사
-편집
+```python
 def store_data(conn, table_name, data):
     """
     데이터를 데이터베이스에 저장.
@@ -64,9 +63,7 @@ def store_data(conn, table_name, data):
 (3) preprocessor.py
 기능: 결측치 처리, 이상치 제거, 데이터 정규화.
 주요 함수:
-python
-복사
-편집
+```python
 def preprocess_data(data):
     """
     데이터 전처리 함수
@@ -80,9 +77,7 @@ def preprocess_data(data):
 (1) trend_indicator.py
 기능: 이동평균선(MA) 계산.
 주요 함수:
-python
-복사
-편집
+```python
 def calculate_ma(data, window):
     """
     이동평균선 계산 함수
@@ -94,9 +89,7 @@ def calculate_ma(data, window):
 (2) momentum_indicator.py
 기능: RSI 계산.
 주요 함수:
-python
-복사
-편집
+```python
 def calculate_rsi(data, period=14):
     """
     RSI 계산 함수
@@ -113,9 +106,7 @@ def calculate_rsi(data, period=14):
 (1) generator.py
 기능: 이동평균선 교차 또는 RSI 기반으로 신호 생성.
 주요 함수:
-python
-복사
-편집
+```python
 def generate_signals(data):
     """
     매수/매도 신호 생성
@@ -129,10 +120,9 @@ def generate_signals(data):
 🔗 통신 구조 및 의존성
 1️⃣ 통신 구조
 데이터 흐름:
-plaintext
-복사
-편집
+```plaintext
 collector.py → data_storage.py → preprocessor.py → indicators/ → signals/ → execution/
+```
 2️⃣ 의존성
 외부 라이브러리:
 ccxt: 거래소 API 호출.
@@ -140,22 +130,24 @@ sqlite3: 데이터베이스 저장.
 pandas: 데이터프레임 처리.
 내부 모듈:
 logger: 이벤트 기록.
-📅 개발 일정
-1. 설계 및 검토
+
+### 📅 개발 일정
+1. **설계 및 검토**
 데이터 모듈 설계: 5일
 지표 및 신호 모듈 설계: 5일
 매매 실행 모듈 설계: 5일
-2. 개발 및 테스트
+2. **개발 및 테스트**
 데이터 모듈 구현 및 테스트: 7일
 신호 모듈 구현 및 테스트: 7일
 매매 실행 모듈 구현 및 테스트: 7일
 3. 통합 및 프로토타입 테스트
 데이터 → 지표 → 신호 → 실행 통합 테스트: 5일
-📑 테스트 계획
-1. 유닛 테스트
+
+### 📑 테스트 계획
+1. **유닛 테스트**
 각 모듈의 주요 기능을 개별적으로 검증.
 예: /data/collector.py의 fetch_historical_data 테스트.
-2. 통합 테스트
+2. **통합 테스트**
 데이터 수집 → 지표 계산 → 신호 생성 → 매매 실행의 전체 흐름 검증.
-3. 성능 테스트
+3. **성능 테스트**
 과거 데이터 1년 분량으로 시스템 처리 성능 확인.
