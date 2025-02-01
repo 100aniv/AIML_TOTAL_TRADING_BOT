@@ -227,4 +227,23 @@ def macd(data: pd.Series,
 
 def generate_technical(data: pd.DataFrame) -> pd.DataFrame:
     """기술적 특징 생성"""
-``` 
+```
+
+# 네이밍 컨벤션 및 코드 스타일 가이드
+
+## 1. 모듈 구조 및 데이터 흐름
+
+### 1.1 기본 데이터 흐름
+```mermaid
+graph LR
+    A[arbitrage_collector.py] --> B[arbitrage_feature.py]
+    C[indicators/*_indicator.py] --> D[feature_generator.py]
+```
+
+### 1.2 Indicators 모듈 구조
+- 위치: /indicators/
+- 역할: 순수 지표 계산
+- 파일 구조:
+  - 각 특징 카테고리별로 독립된 indicator 파일 생성
+  - 파일명 규칙: [category_name]_indicator.py
+  - 예: technical_indicator.py, volume_indicator.py 
