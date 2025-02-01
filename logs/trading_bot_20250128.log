@@ -1,0 +1,2285 @@
+[2025-01-28 11:49:12] INFO logger: Info message
+[2025-01-28 11:49:12] WARNING logger: Warning message
+[2025-01-28 11:49:12] WARNING logger: Telegram credentials not configured
+[2025-01-28 11:49:12] ERROR logger: Error message
+[2025-01-28 11:49:12] WARNING logger: Telegram credentials not configured
+[2025-01-28 11:49:13] INFO logger: Connected to binance exchange
+[2025-01-28 11:49:14] INFO logger: Connected to binance exchange
+[2025-01-28 11:49:14] INFO logger: Successfully fetched 10 1h candles for BTC/USDT
+[2025-01-28 11:49:14] INFO logger: Database initialized successfully
+[2025-01-28 11:49:14] INFO logger: Database initialized successfully
+[2025-01-28 11:49:14] ERROR logger: Error in removing outliers: 'c'
+[2025-01-28 11:49:14] WARNING logger: Telegram credentials not configured
+[2025-01-28 11:49:14] INFO logger: Database initialized successfully
+[2025-01-28 11:49:14] INFO logger: Database initialized successfully
+[2025-01-28 11:49:14] INFO logger: Initialized binance exchange
+[2025-01-28 11:49:14] INFO logger: Initialized upbit exchange
+[2025-01-28 11:49:14] INFO logger: Database initialized successfully
+[2025-01-28 11:49:15] ERROR logger: Failed to initialize Web3: Failed to connect to the network
+[2025-01-28 11:49:15] WARNING logger: Telegram credentials not configured
+[2025-01-28 11:55:05] INFO logger: Info message
+[2025-01-28 11:55:05] WARNING logger: Warning message
+[2025-01-28 11:55:05] WARNING logger: Telegram credentials not configured
+[2025-01-28 11:55:05] ERROR logger: Error message
+[2025-01-28 11:55:05] WARNING logger: Telegram credentials not configured
+[2025-01-28 11:55:06] INFO logger: Connected to binance exchange
+[2025-01-28 11:55:07] INFO logger: Connected to binance exchange
+[2025-01-28 11:55:07] INFO logger: Successfully fetched 10 1h candles for BTC/USDT
+[2025-01-28 11:55:07] INFO logger: Database initialized successfully
+[2025-01-28 11:55:07] INFO logger: Database initialized successfully
+[2025-01-28 11:55:07] ERROR logger: Error in removing outliers: 'c'
+[2025-01-28 11:55:07] WARNING logger: Telegram credentials not configured
+[2025-01-28 11:55:07] INFO logger: Database initialized successfully
+[2025-01-28 11:55:07] INFO logger: Database initialized successfully
+[2025-01-28 11:55:07] INFO logger: Initialized binance exchange
+[2025-01-28 11:55:07] INFO logger: Initialized upbit exchange
+[2025-01-28 11:55:07] INFO logger: Database initialized successfully
+[2025-01-28 11:55:08] ERROR logger: Failed to initialize Web3: Failed to connect to the network
+[2025-01-28 11:55:08] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:00:54] INFO logger: Info message
+[2025-01-28 12:00:54] WARNING logger: Warning message
+[2025-01-28 12:00:54] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:00:54] ERROR logger: Error message
+[2025-01-28 12:00:54] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:00:56] INFO logger: Connected to binance exchange
+[2025-01-28 12:00:56] INFO logger: Database initialized successfully
+[2025-01-28 12:00:56] ERROR logger: Failed to store data: table ohlcv has no column named index
+[2025-01-28 12:00:56] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:02:02] INFO logger: Info message
+[2025-01-28 12:02:02] WARNING logger: Warning message
+[2025-01-28 12:02:02] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:02:02] ERROR logger: Error message
+[2025-01-28 12:02:02] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:02:03] INFO logger: Connected to binance exchange
+[2025-01-28 12:02:03] INFO logger: Database initialized successfully
+[2025-01-28 12:02:03] INFO logger: Stored 1 rows of BTC/USDT data from binance
+[2025-01-28 12:02:03] INFO logger: Removed 1 outliers from close
+[2025-01-28 12:12:37] INFO logger: Info message
+[2025-01-28 12:12:37] WARNING logger: Warning message
+[2025-01-28 12:12:37] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:12:37] ERROR logger: Error message
+[2025-01-28 12:12:37] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:12:39] INFO logger: Connected to binance exchange
+[2025-01-28 12:12:40] INFO logger: Connected to binance exchange
+[2025-01-28 12:12:40] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 12:12:40] INFO logger: Database initialized successfully
+[2025-01-28 12:12:40] INFO logger: Stored 1 rows of BTC/USDT data from binance
+[2025-01-28 12:12:40] INFO logger: Removed 1 outliers from close
+[2025-01-28 12:12:40] ERROR logger: Failed to initialize database: unable to open database file
+[2025-01-28 12:12:40] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:15:28] INFO logger: Info message
+[2025-01-28 12:15:28] WARNING logger: Warning message
+[2025-01-28 12:15:28] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:15:28] ERROR logger: Error message
+[2025-01-28 12:15:28] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:15:30] INFO logger: Connected to binance exchange
+[2025-01-28 12:15:31] INFO logger: Connected to binance exchange
+[2025-01-28 12:15:31] INFO logger: Fetched 5 records for BTC/USDT (1h)
+[2025-01-28 12:15:31] INFO logger: Database initialized successfully
+[2025-01-28 12:15:31] INFO logger: Stored 1 rows of BTC/USDT data from binance
+[2025-01-28 12:15:31] INFO logger: Removed 1 outliers from close
+[2025-01-28 12:15:31] INFO logger: Database initialized successfully
+[2025-01-28 12:15:31] INFO logger: Stored 10000 rows of BTC/USDT data from binance
+[2025-01-28 12:15:32] INFO logger: Connected to binance exchange
+[2025-01-28 12:15:33] INFO logger: Connected to binance exchange
+[2025-01-28 12:15:33] INFO logger: Connected to binance exchange
+[2025-01-28 12:15:33] ERROR logger: Failed to initialize database: unable to open database file
+[2025-01-28 12:15:33] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:39:54] INFO logger: Connected to binance exchange
+[2025-01-28 12:39:54] INFO logger: Database initialized successfully
+[2025-01-28 12:39:54] INFO logger: Fetched 100 records for BTC/USDT (1h)
+[2025-01-28 12:39:54] INFO logger: Removed 8 outliers from close
+[2025-01-28 12:39:54] ERROR logger: Failed to store data: 'timestamp'
+[2025-01-28 12:39:54] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:46:28] INFO logger: Connected to binance exchange
+[2025-01-28 12:46:28] INFO logger: Database initialized successfully
+[2025-01-28 12:46:28] INFO logger: Fetched 100 records for BTC/USDT (1h)
+[2025-01-28 12:46:28] INFO logger: Removed 8 outliers from close
+[2025-01-28 12:46:28] INFO logger: Stored 92 rows of BTC/USDT data from binance
+[2025-01-28 12:46:28] ERROR logger: 파이프라인 테스트 실패: assert 0 > 0
+ +  where 0 = len(Empty DataFrame\nColumns: [timestamp, open, high, low, close, volume]\nIndex: [])
+[2025-01-28 12:46:28] WARNING logger: Telegram credentials not configured
+[2025-01-28 12:51:49] INFO logger: Connected to binance exchange
+[2025-01-28 12:51:49] INFO logger: Database initialized successfully
+[2025-01-28 12:51:49] INFO logger: Fetched 100 records for BTC/USDT (1h)
+[2025-01-28 12:51:49] INFO logger: Removed 8 outliers from close
+[2025-01-28 12:51:49] INFO logger: Stored 92 rows of BTC/USDT data from binance
+[2025-01-28 12:52:56] INFO logger: Connected to binance exchange
+[2025-01-28 12:52:56] INFO logger: Database initialized successfully
+[2025-01-28 12:52:56] INFO logger: Fetched 100 records for BTC/USDT (1h)
+[2025-01-28 12:52:56] INFO logger: Removed 8 outliers from close
+[2025-01-28 12:52:56] INFO logger: Stored 92 rows of BTC/USDT data from binance
+[2025-01-28 12:56:08] INFO logger: Connected to binance exchange
+[2025-01-28 12:56:08] INFO logger: Database initialized successfully
+[2025-01-28 12:56:08] INFO logger: 
+==================================================
+[2025-01-28 12:56:08] INFO logger: 데이터 파이프라인 통합 테스트 시작
+[2025-01-28 12:56:08] INFO logger: 
+1. 데이터 수집 테스트
+[2025-01-28 12:56:08] INFO logger: - 대상: binance의 BTC/USDT, 1h 데이터
+[2025-01-28 12:56:08] INFO logger: Fetched 100 records for BTC/USDT (1h)
+[2025-01-28 12:56:08] INFO logger: - 수집된 데이터: 100개 레코드
+[2025-01-28 12:56:08] INFO logger: 
+2. 데이터 전처리 테스트
+[2025-01-28 12:56:08] INFO logger: Removed 8 outliers from close
+[2025-01-28 12:56:08] INFO logger: - 이상치 제거 후 데이터: 92개 레코드
+[2025-01-28 12:56:08] INFO logger: - 정규화 완료: 최소값=0.00, 최대값=1.00
+[2025-01-28 12:56:08] INFO logger: 
+3. 데이터 저장 테스트
+[2025-01-28 12:56:08] INFO logger: Stored 92 rows of BTC/USDT data from binance
+[2025-01-28 12:56:08] INFO logger: - 92개 레코드 저장 완료
+[2025-01-28 12:56:08] INFO logger: 
+4. 데이터 검증 테스트
+[2025-01-28 12:56:08] INFO logger: - 데이터 길이 일치: 성공
+[2025-01-28 12:56:08] INFO logger: - 인덱스 일치: 성공
+[2025-01-28 12:56:08] INFO logger: - 종가 데이터 일치: 성공
+[2025-01-28 12:56:08] INFO logger: 
+5. 예외 케이스 테스트
+[2025-01-28 12:56:08] INFO logger: - 잘못된 timeframe 조회 시 빈 데이터 반환: 성공
+[2025-01-28 12:56:08] INFO logger: 
+통합 테스트 결과: 모든 테스트 통과
+[2025-01-28 12:56:08] INFO logger: ==================================================
+
+[2025-01-28 12:56:12] INFO logger: Connected to binance exchange
+[2025-01-28 12:56:12] INFO logger: Database initialized successfully
+[2025-01-28 12:56:12] INFO logger: 
+==================================================
+[2025-01-28 12:56:12] INFO logger: 데이터 파이프라인 통합 테스트 시작
+[2025-01-28 12:56:12] INFO logger: 
+1. 데이터 수집 테스트
+[2025-01-28 12:56:12] INFO logger: - 대상: binance의 BTC/USDT, 1h 데이터
+[2025-01-28 12:56:12] INFO logger: Fetched 100 records for BTC/USDT (1h)
+[2025-01-28 12:56:12] INFO logger: - 수집된 데이터: 100개 레코드
+[2025-01-28 12:56:12] INFO logger: 
+2. 데이터 전처리 테스트
+[2025-01-28 12:56:12] INFO logger: Removed 8 outliers from close
+[2025-01-28 12:56:12] INFO logger: - 이상치 제거 후 데이터: 92개 레코드
+[2025-01-28 12:56:12] INFO logger: - 정규화 완료: 최소값=0.00, 최대값=1.00
+[2025-01-28 12:56:12] INFO logger: 
+3. 데이터 저장 테스트
+[2025-01-28 12:56:12] INFO logger: Stored 92 rows of BTC/USDT data from binance
+[2025-01-28 12:56:12] INFO logger: - 92개 레코드 저장 완료
+[2025-01-28 12:56:12] INFO logger: 
+4. 데이터 검증 테스트
+[2025-01-28 12:56:12] INFO logger: - 데이터 길이 일치: 성공
+[2025-01-28 12:56:12] INFO logger: - 인덱스 일치: 성공
+[2025-01-28 12:56:12] INFO logger: - 종가 데이터 일치: 성공
+[2025-01-28 12:56:12] INFO logger: 
+5. 예외 케이스 테스트
+[2025-01-28 12:56:12] INFO logger: - 잘못된 timeframe 조회 시 빈 데이터 반환: 성공
+[2025-01-28 12:56:12] INFO logger: 
+통합 테스트 결과: 모든 테스트 통과
+[2025-01-28 12:56:12] INFO logger: ==================================================
+
+[2025-01-28 12:59:17] INFO logger: Connected to binance exchange
+[2025-01-28 12:59:17] INFO logger: Database initialized successfully
+[2025-01-28 12:59:17] INFO logger: 
+==================================================
+[2025-01-28 12:59:17] INFO logger: 데이터 파이프라인 통합 테스트 시작
+[2025-01-28 12:59:17] INFO logger: 
+1. 데이터 수집 테스트
+[2025-01-28 12:59:17] INFO logger: - 대상: binance의 BTC/USDT, 1h 데이터
+[2025-01-28 12:59:17] INFO logger: Fetched 100 records for BTC/USDT (1h)
+[2025-01-28 12:59:17] INFO logger: - 수집된 데이터: 100개 레코드
+[2025-01-28 12:59:17] INFO logger: 
+2. 데이터 전처리 테스트
+[2025-01-28 12:59:17] INFO logger: Removed 8 outliers from close
+[2025-01-28 12:59:17] INFO logger: - 이상치 제거 후 데이터: 92개 레코드
+[2025-01-28 12:59:17] INFO logger: - 정규화 완료: 최소값=0.00, 최대값=1.00
+[2025-01-28 12:59:17] INFO logger: 
+3. 데이터 저장 테스트
+[2025-01-28 12:59:17] INFO logger: Stored 92 rows of BTC/USDT data from binance
+[2025-01-28 12:59:17] INFO logger: - 92개 레코드 저장 완료
+[2025-01-28 12:59:17] INFO logger: 
+4. 데이터 검증 테스트
+[2025-01-28 12:59:17] INFO logger: - 데이터 길이 일치: 성공
+[2025-01-28 12:59:17] INFO logger: - 인덱스 일치: 성공
+[2025-01-28 12:59:17] INFO logger: - 종가 데이터 일치: 성공
+[2025-01-28 12:59:17] INFO logger: 
+5. 예외 케이스 테스트
+[2025-01-28 12:59:17] INFO logger: - 잘못된 timeframe 조회 시 빈 데이터 반환: 성공
+[2025-01-28 12:59:17] INFO logger: 
+통합 테스트 결과: 모든 테스트 통과
+[2025-01-28 12:59:17] INFO logger: ==================================================
+
+[2025-01-28 14:26:38] INFO logger: Info message
+[2025-01-28 14:26:38] WARNING logger: Warning message
+[2025-01-28 14:26:38] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:26:38] ERROR logger: Error message
+[2025-01-28 14:26:38] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:26:40] INFO logger: Connected to binance exchange
+[2025-01-28 14:26:40] INFO logger: Connected to binance exchange
+[2025-01-28 14:26:41] INFO logger: Fetched 5 records for BTC/USDT (1h)
+[2025-01-28 14:26:41] INFO logger: Database initialized successfully
+[2025-01-28 14:26:41] INFO logger: Stored 1 rows of BTC/USDT data from binance
+[2025-01-28 14:26:41] INFO logger: Removed 1 outliers from close
+[2025-01-28 14:26:41] INFO logger: Database initialized successfully
+[2025-01-28 14:26:41] INFO logger: Stored 10000 rows of BTC/USDT data from binance
+[2025-01-28 14:26:41] INFO logger: Connected to binance exchange
+[2025-01-28 14:26:42] INFO logger: Connected to binance exchange
+[2025-01-28 14:26:43] INFO logger: Connected to binance exchange
+[2025-01-28 14:26:43] ERROR logger: Failed to initialize database: unable to open database file
+[2025-01-28 14:26:43] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:26:44] INFO logger: Connected to binance exchange
+[2025-01-28 14:26:44] INFO logger: 
+데이터 수집기 단위 테스트
+[2025-01-28 14:26:44] INFO logger: Database initialized successfully
+[2025-01-28 14:26:44] INFO logger: 
+데이터 저장소 단위 테스트
+[2025-01-28 14:26:44] INFO logger: 
+데이터 전처리기 단위 테스트
+[2025-01-28 14:26:44] INFO logger: Database initialized successfully
+[2025-01-28 14:26:44] INFO logger: 
+실시간 데이터 수집기 단위 테스트
+[2025-01-28 14:26:45] INFO logger: Database initialized successfully
+[2025-01-28 14:26:45] INFO logger: Initialized binance exchange
+[2025-01-28 14:26:45] INFO logger: Initialized upbit exchange
+[2025-01-28 14:26:45] INFO logger: 
+아비트라지 수집기 단위 테스트
+[2025-01-28 14:26:45] INFO logger: Database initialized successfully
+[2025-01-28 14:26:46] ERROR logger: Failed to initialize Web3: Failed to connect to the network
+[2025-01-28 14:26:46] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:33:58] INFO logger: 
+=== 로거 모듈 테스트 ===
+[2025-01-28 14:33:58] INFO logger: ✅ 로거 초기화 완료
+[2025-01-28 14:33:58] INFO logger: ✅ 로그 레벨(INFO/WARNING/ERROR) 테스트 완료
+[2025-01-28 14:34:00] INFO logger: Connected to binance exchange
+[2025-01-28 14:34:00] INFO logger: 
+=== 데이터 수집기 테스트 ===
+[2025-01-28 14:34:00] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 14:34:00] INFO logger: ✅ 5개의 OHLCV 데이터 수집 완료
+[2025-01-28 14:34:01] INFO logger: Connected to binance exchange
+[2025-01-28 14:34:01] INFO logger: Successfully fetched 394 1d candles for BTC/USDT
+[2025-01-28 14:34:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:36] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:36] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:36] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:36] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:36] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:36] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:36] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:36] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:36] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:36] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:37] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:37] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:37] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:37] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:37] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:37] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:37] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:37] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:37] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:37] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:38] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:38] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:38] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:38] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:38] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:38] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:38] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:38] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:38] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:38] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:39] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:39] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:39] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:39] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:39] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:39] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:39] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:39] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:39] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:40] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:40] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:40] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:40] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:40] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:40] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:40] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:40] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:40] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:40] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:41] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:41] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:41] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:41] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:41] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:41] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:41] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:41] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:41] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:42] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:42] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:42] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:42] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:42] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:42] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:42] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:42] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:42] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:42] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:43] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:43] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:43] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:43] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:43] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:43] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:43] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:43] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:43] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:44] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:44] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:44] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:44] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:44] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:44] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:44] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:44] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:44] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:44] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:45] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:45] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:45] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:45] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:45] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:45] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:45] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:45] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:45] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:46] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:46] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:46] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:46] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:46] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:46] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:46] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:46] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:46] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:46] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:47] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:47] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:47] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:47] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:47] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:47] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:47] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:47] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:47] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:48] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:48] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:48] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:48] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:48] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:48] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:48] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:48] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:48] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:48] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:49] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:49] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:49] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:49] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:49] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:49] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:49] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:49] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:49] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:50] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:50] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:50] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:50] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:50] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:50] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:50] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:50] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:50] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:51] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:51] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:51] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:51] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:51] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:51] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:51] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:51] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:51] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:51] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:52] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:52] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:52] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:52] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:52] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:52] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:52] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:52] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:52] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:52] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:53] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:53] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:53] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:53] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:53] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:53] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:53] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:53] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:53] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:54] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:54] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:54] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:54] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:54] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:54] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:54] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:54] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:54] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:55] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:55] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:55] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:55] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:55] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:55] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:55] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:55] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:55] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:55] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:56] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:56] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:56] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:56] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:56] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:56] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:56] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:56] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:56] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:57] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:57] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:57] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:57] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:57] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:57] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:57] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:57] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:57] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:57] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:58] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:58] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:58] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:58] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:58] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:58] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:58] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:58] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:58] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:58] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:59] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:59] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:59] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:59] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:59] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:59] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:59] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:59] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:34:59] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:00] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:00] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:00] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:00] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:00] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:00] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:00] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:00] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:01] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:02] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:03] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:04] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:05] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:06] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:07] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:08] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:09] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:10] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:11] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:12] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:13] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:14] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:15] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:16] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:17] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:18] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:19] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:20] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:21] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:22] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:23] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:24] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:25] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:26] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:27] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:28] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:29] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:30] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:31] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:32] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:33] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:34] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:35] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:35:36] INFO logger: Successfully fetched 1 1d candles for BTC/USDT
+[2025-01-28 14:36:16] INFO logger: 
+=== 로거 모듈 테스트 ===
+[2025-01-28 14:36:16] INFO logger: ✅ 로거 초기화 완료
+[2025-01-28 14:36:16] INFO logger: ✅ 로그 레벨(INFO/WARNING/ERROR) 테스트 완료
+[2025-01-28 14:36:18] INFO logger: Connected to binance exchange
+[2025-01-28 14:36:18] INFO logger: 
+=== 데이터 수집기 테스트 ===
+[2025-01-28 14:36:18] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 14:36:18] INFO logger: ✅ 5개의 OHLCV 데이터 수집 완료
+[2025-01-28 14:36:19] INFO logger: Connected to binance exchange
+[2025-01-28 14:36:19] INFO logger: 
+=== 과거 데이터 수집 테스트 ===
+[2025-01-28 14:36:19] INFO logger: Successfully fetched 8 1d candles for BTC/USDT
+[2025-01-28 14:36:19] INFO logger: Collected 7 historical 1d candles for BTC/USDT from 2025-01-21 00:00:00 to 2025-01-27 00:00:00
+[2025-01-28 14:36:19] INFO logger: ✅ 7개의 일봉 데이터 수집 완료 (2025-01-21 ~ 2025-01-28)
+[2025-01-28 14:36:19] INFO logger: Database initialized successfully
+[2025-01-28 14:36:19] ERROR logger: Failed to store data: table ohlcv has no column named index
+[2025-01-28 14:36:19] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:36:19] ERROR logger: Failed to initialize database: unable to open database file
+[2025-01-28 14:36:19] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:39:41] INFO logger: 
+=== 로거 모듈 테스트 ===
+[2025-01-28 14:39:41] INFO logger: ✅ 로거 초기화 완료
+[2025-01-28 14:39:41] INFO logger: ✅ 로그 레벨(INFO/WARNING/ERROR) 테스트 완료
+[2025-01-28 14:39:42] INFO logger: Connected to binance exchange
+[2025-01-28 14:39:42] INFO logger: 
+=== 데이터 수집기 테스트 ===
+[2025-01-28 14:39:42] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 14:39:42] INFO logger: ✅ 5개의 OHLCV 데이터 수집 완료
+[2025-01-28 14:39:43] INFO logger: Connected to binance exchange
+[2025-01-28 14:39:43] INFO logger: 
+=== 과거 데이터 수집 테스트 ===
+[2025-01-28 14:39:43] INFO logger: Successfully fetched 8 1d candles for BTC/USDT
+[2025-01-28 14:39:43] INFO logger: Collected 7 historical 1d candles for BTC/USDT from 2025-01-21 00:00:00 to 2025-01-27 00:00:00
+[2025-01-28 14:39:43] INFO logger: ✅ 7개의 일봉 데이터 수집 완료 (2025-01-21 ~ 2025-01-28)
+[2025-01-28 14:39:43] INFO logger: Database initialized successfully
+[2025-01-28 14:39:43] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 14:39:44] INFO logger: Connected to binance exchange
+[2025-01-28 14:39:44] WARNING logger: Attempt 1/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:39:44] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:39:49] WARNING logger: Attempt 2/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:39:49] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:39:54] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+[2025-01-28 14:39:54] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:39:55] INFO logger: Connected to binance exchange
+[2025-01-28 14:39:55] WARNING logger: Attempt 1/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:39:55] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:40:00] WARNING logger: Attempt 2/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:40:00] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:40:05] ERROR logger: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+[2025-01-28 14:40:05] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:40:06] ERROR logger: Failed to initialize database: unable to open database file
+[2025-01-28 14:40:06] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:40:06] INFO logger: Database initialized successfully
+[2025-01-28 14:40:06] INFO logger: Initialized binance exchange
+[2025-01-28 14:40:06] INFO logger: Initialized upbit exchange
+[2025-01-28 14:40:06] INFO logger: 
+=== 아비트라지 수집기 테스트 ===
+[2025-01-28 14:40:08] ERROR logger: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+[2025-01-28 14:40:08] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:40:09] ERROR logger: Error fetching ETH/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+[2025-01-28 14:40:09] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:40:09] INFO logger: ✅ 거래소 간 가격차이 데이터 수집 완료
+[2025-01-28 14:40:09] ERROR logger: ❌ 아비트라지 테스트 실패: 'ArbitrageCollector' object has no attribute 'calculate_arbitrage_opportunity'
+[2025-01-28 14:40:09] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:41:55] INFO logger: 
+=== 로거 모듈 테스트 ===
+[2025-01-28 14:41:55] INFO logger: ✅ 로거 초기화 완료
+[2025-01-28 14:41:55] INFO logger: ✅ 로그 레벨(INFO/WARNING/ERROR) 테스트 완료
+[2025-01-28 14:41:57] INFO logger: Connected to binance exchange
+[2025-01-28 14:41:57] INFO logger: 
+=== 데이터 수집기 테스트 ===
+[2025-01-28 14:41:57] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 14:41:57] INFO logger: ✅ 5개의 OHLCV 데이터 수집 완료
+[2025-01-28 14:41:58] INFO logger: Connected to binance exchange
+[2025-01-28 14:41:58] INFO logger: 
+=== 과거 데이터 수집 테스트 ===
+[2025-01-28 14:41:58] INFO logger: Successfully fetched 8 1d candles for BTC/USDT
+[2025-01-28 14:41:58] INFO logger: Collected 7 historical 1d candles for BTC/USDT from 2025-01-21 00:00:00 to 2025-01-27 00:00:00
+[2025-01-28 14:41:58] INFO logger: ✅ 7개의 일봉 데이터 수집 완료 (2025-01-21 ~ 2025-01-28)
+[2025-01-28 14:41:58] INFO logger: Database initialized successfully
+[2025-01-28 14:41:58] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 14:41:59] INFO logger: Connected to binance exchange
+[2025-01-28 14:41:59] WARNING logger: Attempt 1/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:41:59] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:42:04] WARNING logger: Attempt 2/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:42:04] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:42:09] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+[2025-01-28 14:42:09] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:42:10] INFO logger: Connected to binance exchange
+[2025-01-28 14:42:10] WARNING logger: Attempt 1/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:42:10] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:42:15] WARNING logger: Attempt 2/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:42:15] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:42:20] ERROR logger: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+[2025-01-28 14:42:20] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:42:21] ERROR logger: Failed to initialize database: unable to open database file
+[2025-01-28 14:42:21] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:42:21] INFO logger: Database initialized successfully
+[2025-01-28 14:42:21] INFO logger: Initialized binance exchange
+[2025-01-28 14:42:21] INFO logger: Initialized upbit exchange
+[2025-01-28 14:42:21] INFO logger: 
+=== 아비트라지 수집기 테스트 ===
+[2025-01-28 14:42:23] ERROR logger: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+[2025-01-28 14:42:23] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:42:24] ERROR logger: Error fetching ETH/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+[2025-01-28 14:42:24] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:42:24] INFO logger: ✅ 거래소 간 가격차이 데이터 수집 완료
+[2025-01-28 14:42:24] ERROR logger: ❌ 아비트라지 테스트 실패: 'ArbitrageCollector' object has no attribute 'calculate_arbitrage_opportunity'
+[2025-01-28 14:42:24] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:43:50] INFO logger: 
+=== 로거 모듈 테스트 ===
+[2025-01-28 14:43:50] INFO logger: ✅ 로거 초기화 완료
+[2025-01-28 14:43:50] INFO logger: ✅ 로그 레벨(INFO/WARNING/ERROR) 테스트 완료
+[2025-01-28 14:43:52] INFO logger: Connected to binance exchange
+[2025-01-28 14:43:52] INFO logger: 
+=== 데이터 수집기 테스트 ===
+[2025-01-28 14:43:52] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 14:43:52] INFO logger: ✅ 5개의 OHLCV 데이터 수집 완료
+[2025-01-28 14:43:52] INFO logger: Connected to binance exchange
+[2025-01-28 14:43:52] INFO logger: 
+=== 과거 데이터 수집 테스트 ===
+[2025-01-28 14:43:53] INFO logger: Successfully fetched 8 1d candles for BTC/USDT
+[2025-01-28 14:43:53] INFO logger: Collected 7 historical 1d candles for BTC/USDT from 2025-01-21 00:00:00 to 2025-01-27 00:00:00
+[2025-01-28 14:43:53] INFO logger: ✅ 7개의 일봉 데이터 수집 완료 (2025-01-21 ~ 2025-01-28)
+[2025-01-28 14:43:53] INFO logger: Database initialized successfully
+[2025-01-28 14:43:53] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 14:43:53] INFO logger: Removed 1 outliers from close
+[2025-01-28 14:43:53] INFO logger: Connected to binance exchange
+[2025-01-28 14:43:53] WARNING logger: Attempt 1/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:43:53] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:43:58] WARNING logger: Attempt 2/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:43:58] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:44:03] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+[2025-01-28 14:44:03] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:44:04] INFO logger: Connected to binance exchange
+[2025-01-28 14:44:04] WARNING logger: Attempt 1/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:44:04] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:44:10] WARNING logger: Attempt 2/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:44:10] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:44:15] ERROR logger: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+[2025-01-28 14:44:15] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:44:15] ERROR logger: Failed to initialize database: unable to open database file
+[2025-01-28 14:44:15] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:44:15] INFO logger: Database initialized successfully
+[2025-01-28 14:44:15] INFO logger: Initialized binance exchange
+[2025-01-28 14:44:15] INFO logger: Initialized upbit exchange
+[2025-01-28 14:44:15] INFO logger: 
+=== 아비트라지 수집기 테스트 ===
+[2025-01-28 14:44:17] ERROR logger: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+[2025-01-28 14:44:17] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:44:18] ERROR logger: Error fetching ETH/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+[2025-01-28 14:44:18] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:44:18] INFO logger: ✅ 거래소 간 가격차이 데이터 수집 완료
+[2025-01-28 14:44:18] ERROR logger: ❌ 아비트라지 테스트 실패: calculate_arbitrage() missing 1 required positional argument: 'ticker2'
+[2025-01-28 14:44:18] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:45:40] INFO logger: 
+=== 로거 모듈 테스트 ===
+[2025-01-28 14:45:40] INFO logger: ✅ 로거 초기화 완료
+[2025-01-28 14:45:40] INFO logger: ✅ 로그 레벨(INFO/WARNING/ERROR) 테스트 완료
+[2025-01-28 14:45:41] INFO logger: Connected to binance exchange
+[2025-01-28 14:45:41] INFO logger: 
+=== 데이터 수집기 테스트 ===
+[2025-01-28 14:45:41] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 14:45:41] INFO logger: ✅ 5개의 OHLCV 데이터 수집 완료
+[2025-01-28 14:45:42] INFO logger: Connected to binance exchange
+[2025-01-28 14:45:42] INFO logger: 
+=== 과거 데이터 수집 테스트 ===
+[2025-01-28 14:45:42] INFO logger: Successfully fetched 8 1d candles for BTC/USDT
+[2025-01-28 14:45:42] INFO logger: Collected 7 historical 1d candles for BTC/USDT from 2025-01-21 00:00:00 to 2025-01-27 00:00:00
+[2025-01-28 14:45:42] INFO logger: ✅ 7개의 일봉 데이터 수집 완료 (2025-01-21 ~ 2025-01-28)
+[2025-01-28 14:45:42] INFO logger: Database initialized successfully
+[2025-01-28 14:45:42] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 14:45:42] INFO logger: Removed 1 outliers from close
+[2025-01-28 14:45:43] INFO logger: Connected to binance exchange
+[2025-01-28 14:45:43] WARNING logger: Attempt 1/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:45:43] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:45:48] WARNING logger: Attempt 2/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:45:48] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:45:53] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+[2025-01-28 14:45:53] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:45:54] INFO logger: Connected to binance exchange
+[2025-01-28 14:45:54] WARNING logger: Attempt 1/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:45:54] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:45:59] WARNING logger: Attempt 2/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:45:59] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:46:04] ERROR logger: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+[2025-01-28 14:46:04] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:46:04] ERROR logger: Failed to initialize database: unable to open database file
+[2025-01-28 14:46:04] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:46:04] INFO logger: Database initialized successfully
+[2025-01-28 14:46:04] INFO logger: Initialized binance exchange
+[2025-01-28 14:46:04] INFO logger: Initialized upbit exchange
+[2025-01-28 14:46:04] INFO logger: 
+=== 아비트라지 수집기 테스트 ===
+[2025-01-28 14:46:06] ERROR logger: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+[2025-01-28 14:46:06] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:46:07] ERROR logger: Error fetching ETH/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+[2025-01-28 14:46:07] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:46:07] INFO logger: ✅ 거래소 간 가격차이 데이터 수집 완료
+[2025-01-28 14:46:07] ERROR logger: ❌ 아비트라지 테스트 실패: 'binance'
+[2025-01-28 14:46:07] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:47:43] INFO logger: 
+=== 로거 모듈 테스트 ===
+[2025-01-28 14:47:43] INFO logger: ✅ 로거 초기화 완료
+[2025-01-28 14:47:43] INFO logger: ✅ 로그 레벨(INFO/WARNING/ERROR) 테스트 완료
+[2025-01-28 14:47:45] INFO logger: Connected to binance exchange
+[2025-01-28 14:47:45] INFO logger: 
+=== 데이터 수집기 테스트 ===
+[2025-01-28 14:47:45] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 14:47:45] INFO logger: ✅ 5개의 OHLCV 데이터 수집 완료
+[2025-01-28 14:47:46] INFO logger: Connected to binance exchange
+[2025-01-28 14:47:46] INFO logger: 
+=== 과거 데이터 수집 테스트 ===
+[2025-01-28 14:47:46] INFO logger: Successfully fetched 8 1d candles for BTC/USDT
+[2025-01-28 14:47:46] INFO logger: Collected 7 historical 1d candles for BTC/USDT from 2025-01-21 00:00:00 to 2025-01-27 00:00:00
+[2025-01-28 14:47:46] INFO logger: ✅ 7개의 일봉 데이터 수집 완료 (2025-01-21 ~ 2025-01-28)
+[2025-01-28 14:47:47] INFO logger: Connected to binance exchange
+[2025-01-28 14:47:47] INFO logger: 
+=== Binance 연결 테스트 ===
+[2025-01-28 14:47:47] INFO logger: ✅ Binance API 연결 성공
+[2025-01-28 14:47:47] INFO logger: Database initialized successfully
+[2025-01-28 14:47:47] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 14:47:47] INFO logger: Removed 1 outliers from close
+[2025-01-28 14:47:48] INFO logger: Connected to binance exchange
+[2025-01-28 14:47:48] WARNING logger: Attempt 1/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:47:48] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:47:53] WARNING logger: Attempt 2/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:47:53] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:47:58] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+[2025-01-28 14:47:58] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:47:59] INFO logger: Connected to binance exchange
+[2025-01-28 14:47:59] WARNING logger: Attempt 1/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:47:59] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:48:04] WARNING logger: Attempt 2/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:48:04] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:48:09] ERROR logger: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+[2025-01-28 14:48:09] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:48:09] ERROR logger: Failed to initialize database: unable to open database file
+[2025-01-28 14:48:09] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:48:09] INFO logger: Database initialized successfully
+[2025-01-28 14:48:09] INFO logger: Initialized binance exchange
+[2025-01-28 14:48:09] INFO logger: Initialized upbit exchange
+[2025-01-28 14:48:09] INFO logger: 
+=== 아비트라지 수집기 테스트 ===
+[2025-01-28 14:48:11] ERROR logger: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+[2025-01-28 14:48:11] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:48:11] WARNING logger: ⚠️ 일부 거래소에서 데이터를 가져오지 못했습니다
+[2025-01-28 14:48:11] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:55:56] INFO logger: 
+=== 로거 모듈 테스트 ===
+[2025-01-28 14:55:56] INFO logger: ✅ 로거 초기화 완료
+[2025-01-28 14:55:56] INFO logger: ✅ 로그 레벨(INFO/WARNING/ERROR) 테스트 완료
+[2025-01-28 14:55:56] INFO logger: 
+=== 텔레그램 알림 테스트 ===
+[2025-01-28 14:55:56] ERROR logger: ❌ 텔레그램 알림 전송 실패: 'TestLogger' object has no attribute 'logger'
+[2025-01-28 14:55:56] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:55:58] INFO logger: Connected to binance exchange
+[2025-01-28 14:55:58] INFO logger: 
+=== 데이터 수집기 테스트 ===
+[2025-01-28 14:55:58] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 14:55:58] INFO logger: ✅ 5개의 OHLCV 데이터 수집 완료
+[2025-01-28 14:55:59] INFO logger: Connected to binance exchange
+[2025-01-28 14:55:59] INFO logger: 
+=== 과거 데이터 수집 테스트 ===
+[2025-01-28 14:55:59] INFO logger: Successfully fetched 8 1d candles for BTC/USDT
+[2025-01-28 14:55:59] INFO logger: Collected 7 historical 1d candles for BTC/USDT from 2025-01-21 00:00:00 to 2025-01-27 00:00:00
+[2025-01-28 14:55:59] INFO logger: ✅ 7개의 일봉 데이터 수집 완료 (2025-01-21 ~ 2025-01-28)
+[2025-01-28 14:55:59] INFO logger: Connected to binance exchange
+[2025-01-28 14:55:59] INFO logger: 
+=== Binance 연결 테스트 ===
+[2025-01-28 14:56:00] INFO logger: ✅ Binance API 연결 성공
+[2025-01-28 14:56:00] INFO logger: Database initialized successfully
+[2025-01-28 14:56:00] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 14:56:00] INFO logger: Removed 1 outliers from close
+[2025-01-28 14:56:00] INFO logger: Connected to binance exchange
+[2025-01-28 14:56:00] WARNING logger: Attempt 1/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:56:00] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:56:05] WARNING logger: Attempt 2/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:56:05] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:56:11] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+[2025-01-28 14:56:11] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:56:11] INFO logger: Connected to binance exchange
+[2025-01-28 14:56:11] WARNING logger: Attempt 1/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:56:11] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:56:16] WARNING logger: Attempt 2/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:56:16] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:56:22] ERROR logger: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+[2025-01-28 14:56:22] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:56:22] ERROR logger: Failed to initialize database: unable to open database file
+[2025-01-28 14:56:22] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:56:22] INFO logger: Database initialized successfully
+[2025-01-28 14:56:22] INFO logger: Initialized binance exchange
+[2025-01-28 14:56:22] INFO logger: Initialized upbit exchange
+[2025-01-28 14:56:22] INFO logger: 
+=== 아비트라지 수집기 테스트 ===
+[2025-01-28 14:56:24] ERROR logger: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+[2025-01-28 14:56:24] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:56:24] WARNING logger: ⚠️ 일부 거래소에서 데이터를 가져오지 못했습니다
+[2025-01-28 14:56:24] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:58:19] INFO logger: 
+=== 로거 모듈 테스트 ===
+[2025-01-28 14:58:19] INFO logger: ✅ 로거 초기화 완료
+[2025-01-28 14:58:19] INFO logger: ✅ 로그 레벨(INFO/WARNING/ERROR) 테스트 완료
+[2025-01-28 14:58:19] INFO logger: 
+=== 텔레그램 알림 테스트 ===
+[2025-01-28 14:58:19] ERROR logger: ❌ 텔레그램 알림 전송 실패: 'TestLogger' object has no attribute 'logger'
+[2025-01-28 14:58:19] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:58:21] INFO logger: Connected to binance exchange
+[2025-01-28 14:58:21] INFO logger: 
+=== 데이터 수집기 테스트 ===
+[2025-01-28 14:58:21] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 14:58:21] INFO logger: ✅ 5개의 OHLCV 데이터 수집 완료
+[2025-01-28 14:58:22] INFO logger: Connected to binance exchange
+[2025-01-28 14:58:22] INFO logger: 
+=== 과거 데이터 수집 테스트 ===
+[2025-01-28 14:58:22] INFO logger: Successfully fetched 8 1d candles for BTC/USDT
+[2025-01-28 14:58:22] INFO logger: Collected 7 historical 1d candles for BTC/USDT from 2025-01-21 00:00:00 to 2025-01-27 00:00:00
+[2025-01-28 14:58:22] INFO logger: ✅ 7개의 일봉 데이터 수집 완료 (2025-01-21 ~ 2025-01-28)
+[2025-01-28 14:58:23] INFO logger: Connected to binance exchange
+[2025-01-28 14:58:23] INFO logger: 
+=== Binance 연결 테스트 ===
+[2025-01-28 14:58:23] INFO logger: ✅ Binance API 연결 성공
+[2025-01-28 14:58:23] INFO logger: Database initialized successfully
+[2025-01-28 14:58:23] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 14:58:23] INFO logger: Removed 1 outliers from close
+[2025-01-28 14:58:24] INFO logger: Connected to binance exchange
+[2025-01-28 14:58:24] WARNING logger: Attempt 1/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:58:24] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:58:29] WARNING logger: Attempt 2/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 14:58:29] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:58:34] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+[2025-01-28 14:58:34] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:58:35] INFO logger: Connected to binance exchange
+[2025-01-28 14:58:35] WARNING logger: Attempt 1/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:58:35] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:58:40] WARNING logger: Attempt 2/3 failed: binance {"code":-1120,"msg":"Invalid interval."}. Retrying in 5 seconds...
+[2025-01-28 14:58:40] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:58:45] ERROR logger: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+[2025-01-28 14:58:45] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:58:45] ERROR logger: Failed to initialize database: unable to open database file
+[2025-01-28 14:58:45] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:58:45] INFO logger: Database initialized successfully
+[2025-01-28 14:58:45] INFO logger: Initialized binance exchange
+[2025-01-28 14:58:45] INFO logger: Initialized upbit exchange
+[2025-01-28 14:58:45] INFO logger: 
+=== 아비트라지 수집기 테스트 ===
+[2025-01-28 14:58:47] ERROR logger: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+[2025-01-28 14:58:47] WARNING logger: Telegram credentials not configured
+[2025-01-28 14:58:47] WARNING logger: ⚠️ 일부 거래소에서 데이터를 가져오지 못했습니다
+[2025-01-28 14:58:47] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:18:26] INFO logger: 정보 로그 테스트
+[2025-01-28 15:18:26] WARNING logger: 경고 로그 테스트
+[2025-01-28 15:18:26] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:18:26] ERROR logger: 에러 로그 테스트
+[2025-01-28 15:18:26] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:18:27] INFO logger: Connected to binance exchange
+[2025-01-28 15:18:27] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:18:28] INFO logger: Connected to binance exchange
+[2025-01-28 15:18:29] INFO logger: Connected to binance exchange
+[2025-01-28 15:18:29] WARNING logger: Attempt 1/3 failed: binance does not have market symbol . Retrying in 5 seconds...
+[2025-01-28 15:18:29] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:18:34] WARNING logger: Attempt 2/3 failed: binance does not have market symbol . Retrying in 5 seconds...
+[2025-01-28 15:18:34] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:18:39] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol 
+[2025-01-28 15:18:39] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:18:40] INFO logger: Database initialized successfully
+[2025-01-28 15:18:40] INFO logger: Database initialized successfully
+[2025-01-28 15:18:40] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:18:40] ERROR logger: Error in removing outliers: 'invalid_column'
+[2025-01-28 15:18:40] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:18:40] ERROR logger: Error in normalizing data: "None of [Index(['invalid_column'], dtype='object')] are in the [columns]"
+[2025-01-28 15:18:40] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:18:40] INFO logger: Database initialized successfully
+[2025-01-28 15:18:40] INFO logger: Database initialized successfully
+[2025-01-28 15:18:40] INFO logger: Initialized binance exchange
+[2025-01-28 15:18:40] INFO logger: Initialized upbit exchange
+[2025-01-28 15:18:40] INFO logger: Database initialized successfully
+[2025-01-28 15:18:41] ERROR logger: Failed to initialize Web3: Failed to connect to the network
+[2025-01-28 15:18:41] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:21:39] INFO logger: 정보 로그 테스트
+[2025-01-28 15:21:39] WARNING logger: 경고 로그 테스트
+[2025-01-28 15:21:39] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:21:39] ERROR logger: 에러 로그 테스트
+[2025-01-28 15:21:39] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:21:40] INFO logger: Connected to binance exchange
+[2025-01-28 15:21:40] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:21:41] INFO logger: Connected to binance exchange
+[2025-01-28 15:21:42] INFO logger: Connected to binance exchange
+[2025-01-28 15:21:42] WARNING logger: Attempt 1/3 failed: binance does not have market symbol . Retrying in 5 seconds...
+[2025-01-28 15:21:42] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:21:47] WARNING logger: Attempt 2/3 failed: binance does not have market symbol . Retrying in 5 seconds...
+[2025-01-28 15:21:47] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:21:52] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol 
+[2025-01-28 15:21:52] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:21:52] INFO logger: Database initialized successfully
+[2025-01-28 15:21:52] INFO logger: Database initialized successfully
+[2025-01-28 15:21:52] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:21:52] ERROR logger: Error in removing outliers: 'invalid_column'
+[2025-01-28 15:21:52] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:21:52] ERROR logger: Error in normalizing data: "None of [Index(['invalid_column'], dtype='object')] are in the [columns]"
+[2025-01-28 15:21:52] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:21:52] INFO logger: Database initialized successfully
+[2025-01-28 15:21:52] INFO logger: Database initialized successfully
+[2025-01-28 15:21:52] INFO logger: Initialized binance exchange
+[2025-01-28 15:21:52] INFO logger: Initialized upbit exchange
+[2025-01-28 15:21:52] INFO logger: Database initialized successfully
+[2025-01-28 15:21:53] ERROR logger: Failed to initialize Web3: Failed to connect to the network
+[2025-01-28 15:21:53] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:24:22] INFO logger: 정보 로그 테스트
+[2025-01-28 15:24:22] WARNING logger: 경고 로그 테스트
+[2025-01-28 15:24:22] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:24:22] ERROR logger: 에러 로그 테스트
+[2025-01-28 15:24:22] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:24:24] INFO logger: Connected to binance exchange
+[2025-01-28 15:24:24] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:24:25] INFO logger: Connected to binance exchange
+[2025-01-28 15:24:26] INFO logger: Connected to binance exchange
+[2025-01-28 15:24:26] WARNING logger: Attempt 1/3 failed: binance does not have market symbol . Retrying in 5 seconds...
+[2025-01-28 15:24:26] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:24:31] WARNING logger: Attempt 2/3 failed: binance does not have market symbol . Retrying in 5 seconds...
+[2025-01-28 15:24:31] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:24:36] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol 
+[2025-01-28 15:24:36] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:24:36] INFO logger: Database initialized successfully
+[2025-01-28 15:24:36] INFO logger: Database initialized successfully
+[2025-01-28 15:24:36] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:24:36] ERROR logger: Error in removing outliers: 'invalid_column'
+[2025-01-28 15:24:36] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:24:36] ERROR logger: Error in normalizing data: "None of [Index(['invalid_column'], dtype='object')] are in the [columns]"
+[2025-01-28 15:24:36] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:24:36] INFO logger: Database initialized successfully
+[2025-01-28 15:24:36] INFO logger: Database initialized successfully
+[2025-01-28 15:24:36] INFO logger: Initialized binance exchange
+[2025-01-28 15:24:36] INFO logger: Initialized upbit exchange
+[2025-01-28 15:26:14] INFO logger: 정보 로그 테스트
+[2025-01-28 15:26:14] WARNING logger: 경고 로그 테스트
+[2025-01-28 15:26:14] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:26:14] ERROR logger: 에러 로그 테스트
+[2025-01-28 15:26:14] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:26:15] INFO logger: Connected to binance exchange
+[2025-01-28 15:26:15] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:26:17] INFO logger: Connected to binance exchange
+[2025-01-28 15:26:18] INFO logger: Connected to binance exchange
+[2025-01-28 15:26:18] WARNING logger: Attempt 1/3 failed: binance does not have market symbol . Retrying in 5 seconds...
+[2025-01-28 15:26:18] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:26:23] WARNING logger: Attempt 2/3 failed: binance does not have market symbol . Retrying in 5 seconds...
+[2025-01-28 15:26:23] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:26:28] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol 
+[2025-01-28 15:26:28] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:26:28] INFO logger: Database initialized successfully
+[2025-01-28 15:26:28] INFO logger: Database initialized successfully
+[2025-01-28 15:26:28] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:26:28] ERROR logger: Error in removing outliers: 'invalid_column'
+[2025-01-28 15:26:28] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:26:28] ERROR logger: Error in normalizing data: "None of [Index(['invalid_column'], dtype='object')] are in the [columns]"
+[2025-01-28 15:26:28] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:26:28] INFO logger: Database initialized successfully
+[2025-01-28 15:26:28] INFO logger: Database initialized successfully
+[2025-01-28 15:26:28] INFO logger: Initialized binance exchange
+[2025-01-28 15:26:28] INFO logger: Initialized upbit exchange
+[2025-01-28 15:26:28] INFO logger: Database initialized successfully
+[2025-01-28 15:26:28] ERROR logger: Failed to initialize Web3: Failed to connect to the network
+[2025-01-28 15:26:28] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:30:43] INFO logger: 정보 로그 테스트
+[2025-01-28 15:30:43] WARNING logger: 경고 로그 테스트
+[2025-01-28 15:30:43] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:30:43] ERROR logger: 에러 로그 테스트
+[2025-01-28 15:30:43] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:30:45] INFO logger: Connected to binance exchange
+[2025-01-28 15:30:45] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:30:46] INFO logger: Connected to binance exchange
+[2025-01-28 15:30:47] INFO logger: Connected to binance exchange
+[2025-01-28 15:30:47] WARNING logger: Attempt 1/3 failed: binance does not have market symbol . Retrying in 5 seconds...
+[2025-01-28 15:30:47] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:30:52] WARNING logger: Attempt 2/3 failed: binance does not have market symbol . Retrying in 5 seconds...
+[2025-01-28 15:30:52] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:30:57] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol 
+[2025-01-28 15:30:57] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:30:57] INFO logger: Database initialized successfully
+[2025-01-28 15:30:57] INFO logger: Database initialized successfully
+[2025-01-28 15:30:57] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:30:57] INFO logger: Database initialized successfully
+[2025-01-28 15:30:57] INFO logger: Database initialized successfully
+[2025-01-28 15:30:57] INFO logger: Initialized binance exchange
+[2025-01-28 15:30:57] INFO logger: Initialized upbit exchange
+[2025-01-28 15:30:57] INFO logger: Database initialized successfully
+[2025-01-28 15:30:57] ERROR logger: Failed to initialize Web3: Failed to connect to the network
+[2025-01-28 15:30:57] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:42:31] INFO logger: 정보 메시지
+[2025-01-28 15:42:31] WARNING logger: 경고 메시지
+[2025-01-28 15:42:31] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:42:31] ERROR logger: 에러 메시지
+[2025-01-28 15:42:31] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:42:32] INFO logger: Connected to binance exchange
+[2025-01-28 15:42:32] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:42:33] INFO logger: Connected to binance exchange
+[2025-01-28 15:42:33] INFO logger: Successfully fetched 1000 1h candles for BTC/USDT
+[2025-01-28 15:42:33] INFO logger: Database initialized successfully
+[2025-01-28 15:42:33] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:42:33] INFO logger: Database initialized successfully
+[2025-01-28 15:42:33] INFO logger: Database initialized successfully
+[2025-01-28 15:42:33] INFO logger: Database initialized successfully
+[2025-01-28 15:42:33] INFO logger: Database initialized successfully
+[2025-01-28 15:42:33] INFO logger: Database initialized successfully
+[2025-01-28 15:42:33] INFO logger: Initialized binance exchange
+[2025-01-28 15:42:33] INFO logger: Initialized upbit exchange
+[2025-01-28 15:42:33] INFO logger: Database initialized successfully
+[2025-01-28 15:42:33] INFO logger: Initialized binance exchange
+[2025-01-28 15:42:33] INFO logger: Initialized upbit exchange
+[2025-01-28 15:42:33] INFO logger: Database initialized successfully
+[2025-01-28 15:42:33] INFO logger: Initialized binance exchange
+[2025-01-28 15:42:33] INFO logger: Initialized upbit exchange
+[2025-01-28 15:42:33] INFO logger: Database initialized successfully
+[2025-01-28 15:42:33] INFO logger: Initialized binance exchange
+[2025-01-28 15:42:33] INFO logger: Initialized upbit exchange
+[2025-01-28 15:42:34] INFO logger: Database initialized successfully
+[2025-01-28 15:42:34] ERROR logger: Failed to initialize Web3: Failed to connect to the network
+[2025-01-28 15:42:34] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:45:25] INFO logger: 정보 메시지
+[2025-01-28 15:45:25] WARNING logger: 경고 메시지
+[2025-01-28 15:45:25] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:45:25] ERROR logger: 에러 메시지
+[2025-01-28 15:45:25] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:45:26] INFO logger: Connected to binance exchange
+[2025-01-28 15:45:26] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:45:27] INFO logger: Connected to binance exchange
+[2025-01-28 15:45:27] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 15:45:27] INFO logger: Database initialized successfully
+[2025-01-28 15:45:27] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:45:27] INFO logger: Database initialized successfully
+[2025-01-28 15:45:27] INFO logger: Database initialized successfully
+[2025-01-28 15:45:27] INFO logger: Database initialized successfully
+[2025-01-28 15:45:27] INFO logger: Database initialized successfully
+[2025-01-28 15:45:27] INFO logger: Database initialized successfully
+[2025-01-28 15:45:27] INFO logger: Initialized binance exchange
+[2025-01-28 15:45:27] INFO logger: Initialized upbit exchange
+[2025-01-28 15:45:27] INFO logger: Database initialized successfully
+[2025-01-28 15:45:27] INFO logger: Initialized binance exchange
+[2025-01-28 15:45:27] INFO logger: Initialized upbit exchange
+[2025-01-28 15:45:27] INFO logger: Database initialized successfully
+[2025-01-28 15:45:27] INFO logger: Initialized binance exchange
+[2025-01-28 15:45:27] INFO logger: Initialized upbit exchange
+[2025-01-28 15:45:27] INFO logger: Database initialized successfully
+[2025-01-28 15:45:27] INFO logger: Initialized binance exchange
+[2025-01-28 15:45:27] INFO logger: Initialized upbit exchange
+[2025-01-28 15:46:49] INFO logger: 정보 메시지
+[2025-01-28 15:46:49] WARNING logger: 경고 메시지
+[2025-01-28 15:46:49] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:46:49] ERROR logger: 에러 메시지
+[2025-01-28 15:46:49] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:46:50] INFO logger: Connected to binance exchange
+[2025-01-28 15:46:50] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:46:51] INFO logger: Connected to binance exchange
+[2025-01-28 15:46:51] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 15:46:51] INFO logger: Database initialized successfully
+[2025-01-28 15:46:51] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:46:51] INFO logger: Database initialized successfully
+[2025-01-28 15:46:51] INFO logger: Database initialized successfully
+[2025-01-28 15:46:51] INFO logger: Database initialized successfully
+[2025-01-28 15:46:51] INFO logger: Database initialized successfully
+[2025-01-28 15:46:52] INFO logger: WebSocket connection established
+[2025-01-28 15:46:52] WARNING logger: WebSocket connection closed
+[2025-01-28 15:46:52] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:46:52] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 15:46:52] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:46:54] ERROR logger: Error processing data: 
+[2025-01-28 15:46:54] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:46:55] INFO logger: Stopped real-time data collection
+[2025-01-28 15:46:56] INFO logger: Database initialized successfully
+[2025-01-28 15:46:56] INFO logger: Initialized binance exchange
+[2025-01-28 15:46:56] INFO logger: Initialized upbit exchange
+[2025-01-28 15:46:56] INFO logger: Database initialized successfully
+[2025-01-28 15:46:56] INFO logger: Initialized binance exchange
+[2025-01-28 15:46:56] INFO logger: Initialized upbit exchange
+[2025-01-28 15:46:56] INFO logger: Database initialized successfully
+[2025-01-28 15:46:56] INFO logger: Initialized binance exchange
+[2025-01-28 15:46:56] INFO logger: Initialized upbit exchange
+[2025-01-28 15:46:56] INFO logger: Database initialized successfully
+[2025-01-28 15:46:56] INFO logger: Initialized binance exchange
+[2025-01-28 15:46:56] INFO logger: Initialized upbit exchange
+[2025-01-28 15:46:57] INFO logger: WebSocket connection established
+[2025-01-28 15:46:57] WARNING logger: WebSocket connection closed
+[2025-01-28 15:46:57] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:46:57] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 15:46:57] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:48:21] INFO logger: 정보 메시지
+[2025-01-28 15:48:21] WARNING logger: 경고 메시지
+[2025-01-28 15:48:21] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:48:21] ERROR logger: 에러 메시지
+[2025-01-28 15:48:21] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:48:22] INFO logger: Connected to binance exchange
+[2025-01-28 15:48:22] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:48:23] INFO logger: Connected to binance exchange
+[2025-01-28 15:48:23] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 15:48:23] INFO logger: Database initialized successfully
+[2025-01-28 15:48:23] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:48:23] INFO logger: Database initialized successfully
+[2025-01-28 15:48:23] INFO logger: Database initialized successfully
+[2025-01-28 15:48:23] INFO logger: Database initialized successfully
+[2025-01-28 15:48:23] INFO logger: Database initialized successfully
+[2025-01-28 15:48:24] INFO logger: WebSocket connection established
+[2025-01-28 15:48:24] WARNING logger: WebSocket connection closed
+[2025-01-28 15:48:24] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:48:24] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 15:48:24] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:48:26] ERROR logger: Error processing data: 
+[2025-01-28 15:48:26] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:48:27] INFO logger: Stopped real-time data collection
+[2025-01-28 15:48:29] INFO logger: WebSocket connection established
+[2025-01-28 15:48:29] WARNING logger: WebSocket connection closed
+[2025-01-28 15:48:29] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:48:29] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 15:48:29] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:48:29] INFO logger: Stopped real-time data collection
+[2025-01-28 15:48:31] INFO logger: Database initialized successfully
+[2025-01-28 15:48:31] INFO logger: Initialized binance exchange
+[2025-01-28 15:48:31] INFO logger: Initialized upbit exchange
+[2025-01-28 15:48:31] INFO logger: Database initialized successfully
+[2025-01-28 15:48:31] INFO logger: Initialized binance exchange
+[2025-01-28 15:48:31] INFO logger: Initialized upbit exchange
+[2025-01-28 15:48:31] INFO logger: Database initialized successfully
+[2025-01-28 15:48:31] INFO logger: Initialized binance exchange
+[2025-01-28 15:48:31] INFO logger: Initialized upbit exchange
+[2025-01-28 15:48:31] INFO logger: Database initialized successfully
+[2025-01-28 15:48:31] INFO logger: Initialized binance exchange
+[2025-01-28 15:48:31] INFO logger: Initialized upbit exchange
+[2025-01-28 15:53:46] INFO logger: 정보 메시지
+[2025-01-28 15:53:46] WARNING logger: 경고 메시지
+[2025-01-28 15:53:46] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:53:46] ERROR logger: 에러 메시지
+[2025-01-28 15:53:46] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:53:48] INFO logger: Connected to binance exchange
+[2025-01-28 15:53:48] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:53:49] INFO logger: Connected to binance exchange
+[2025-01-28 15:53:49] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 15:53:49] INFO logger: Database initialized successfully
+[2025-01-28 15:53:49] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:53:49] INFO logger: Database initialized successfully
+[2025-01-28 15:53:49] INFO logger: Database initialized successfully
+[2025-01-28 15:53:49] INFO logger: Database initialized successfully
+[2025-01-28 15:53:49] INFO logger: Database initialized successfully
+[2025-01-28 15:53:49] INFO logger: WebSocket connection established
+[2025-01-28 15:53:49] WARNING logger: WebSocket connection closed
+[2025-01-28 15:53:49] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:53:49] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 15:53:49] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:53:52] ERROR logger: Error processing data: 
+[2025-01-28 15:53:52] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:53:53] INFO logger: Stopped real-time data collection
+[2025-01-28 15:53:54] INFO logger: WebSocket connection established
+[2025-01-28 15:53:54] WARNING logger: WebSocket connection closed
+[2025-01-28 15:53:54] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:53:54] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 15:53:54] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:53:56] INFO logger: Database initialized successfully
+[2025-01-28 15:53:56] INFO logger: Initialized binance exchange
+[2025-01-28 15:53:56] INFO logger: Initialized upbit exchange
+[2025-01-28 15:53:56] INFO logger: Database initialized successfully
+[2025-01-28 15:53:56] INFO logger: Initialized binance exchange
+[2025-01-28 15:53:56] INFO logger: Initialized upbit exchange
+[2025-01-28 15:53:56] INFO logger: Database initialized successfully
+[2025-01-28 15:53:56] INFO logger: Initialized binance exchange
+[2025-01-28 15:53:56] INFO logger: Initialized upbit exchange
+[2025-01-28 15:53:56] INFO logger: Database initialized successfully
+[2025-01-28 15:53:56] INFO logger: Initialized binance exchange
+[2025-01-28 15:53:56] INFO logger: Initialized upbit exchange
+[2025-01-28 15:55:47] INFO logger: 정보 메시지
+[2025-01-28 15:55:47] WARNING logger: 경고 메시지
+[2025-01-28 15:55:47] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:55:47] ERROR logger: 에러 메시지
+[2025-01-28 15:55:47] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:55:49] INFO logger: Connected to binance exchange
+[2025-01-28 15:55:49] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:55:50] INFO logger: Connected to binance exchange
+[2025-01-28 15:55:50] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 15:55:50] INFO logger: Database initialized successfully
+[2025-01-28 15:55:50] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:55:50] INFO logger: Database initialized successfully
+[2025-01-28 15:55:50] INFO logger: Database initialized successfully
+[2025-01-28 15:55:50] INFO logger: Database initialized successfully
+[2025-01-28 15:55:50] INFO logger: Database initialized successfully
+[2025-01-28 15:55:50] INFO logger: WebSocket connection established
+[2025-01-28 15:55:50] WARNING logger: WebSocket connection closed
+[2025-01-28 15:55:50] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:55:50] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 15:55:50] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:55:53] ERROR logger: Error processing data: 
+[2025-01-28 15:55:53] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:55:54] INFO logger: Stopped real-time data collection
+[2025-01-28 15:55:56] INFO logger: WebSocket connection established
+[2025-01-28 15:55:56] WARNING logger: WebSocket connection closed
+[2025-01-28 15:55:56] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:55:56] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 15:55:56] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:55:57] INFO logger: Database initialized successfully
+[2025-01-28 15:55:57] INFO logger: Initialized binance exchange
+[2025-01-28 15:55:57] INFO logger: Initialized upbit exchange
+[2025-01-28 15:55:57] INFO logger: Database initialized successfully
+[2025-01-28 15:55:57] INFO logger: Initialized binance exchange
+[2025-01-28 15:55:57] INFO logger: Initialized upbit exchange
+[2025-01-28 15:55:57] INFO logger: Database initialized successfully
+[2025-01-28 15:55:57] INFO logger: Initialized binance exchange
+[2025-01-28 15:55:57] INFO logger: Initialized upbit exchange
+[2025-01-28 15:55:57] INFO logger: Database initialized successfully
+[2025-01-28 15:55:57] INFO logger: Initialized binance exchange
+[2025-01-28 15:55:57] INFO logger: Initialized upbit exchange
+[2025-01-28 15:57:26] INFO logger: 정보 메시지
+[2025-01-28 15:57:26] WARNING logger: 경고 메시지
+[2025-01-28 15:57:26] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:57:26] ERROR logger: 에러 메시지
+[2025-01-28 15:57:26] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:57:27] INFO logger: Connected to binance exchange
+[2025-01-28 15:57:27] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:57:28] INFO logger: Connected to binance exchange
+[2025-01-28 15:57:28] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 15:57:28] INFO logger: Database initialized successfully
+[2025-01-28 15:57:28] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:57:28] INFO logger: Database initialized successfully
+[2025-01-28 15:57:28] INFO logger: Database initialized successfully
+[2025-01-28 15:57:28] INFO logger: Database initialized successfully
+[2025-01-28 15:57:28] INFO logger: Database initialized successfully
+[2025-01-28 15:57:28] INFO logger: WebSocket connection established
+[2025-01-28 15:57:28] WARNING logger: WebSocket connection closed
+[2025-01-28 15:57:28] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:57:28] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 15:57:28] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:57:31] ERROR logger: Error processing data: 
+[2025-01-28 15:57:31] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:57:32] INFO logger: Stopped real-time data collection
+[2025-01-28 15:57:34] INFO logger: WebSocket connection established
+[2025-01-28 15:57:34] WARNING logger: WebSocket connection closed
+[2025-01-28 15:57:34] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:57:34] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 15:57:34] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:57:34] INFO logger: Database initialized successfully
+[2025-01-28 15:57:34] INFO logger: Initialized binance exchange
+[2025-01-28 15:57:34] INFO logger: Initialized upbit exchange
+[2025-01-28 15:57:34] INFO logger: Database initialized successfully
+[2025-01-28 15:57:34] INFO logger: Initialized binance exchange
+[2025-01-28 15:57:34] INFO logger: Initialized upbit exchange
+[2025-01-28 15:57:34] INFO logger: Database initialized successfully
+[2025-01-28 15:57:34] INFO logger: Initialized binance exchange
+[2025-01-28 15:57:34] INFO logger: Initialized upbit exchange
+[2025-01-28 15:57:34] INFO logger: Database initialized successfully
+[2025-01-28 15:57:34] INFO logger: Initialized binance exchange
+[2025-01-28 15:57:34] INFO logger: Initialized upbit exchange
+[2025-01-28 15:59:47] INFO logger: 정보 메시지
+[2025-01-28 15:59:47] WARNING logger: 경고 메시지
+[2025-01-28 15:59:47] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:59:47] ERROR logger: 에러 메시지
+[2025-01-28 15:59:47] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:59:49] INFO logger: Connected to binance exchange
+[2025-01-28 15:59:49] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 15:59:50] INFO logger: Connected to binance exchange
+[2025-01-28 15:59:50] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 15:59:50] INFO logger: Database initialized successfully
+[2025-01-28 15:59:50] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 15:59:50] INFO logger: Database initialized successfully
+[2025-01-28 15:59:50] INFO logger: Database initialized successfully
+[2025-01-28 15:59:50] INFO logger: Database initialized successfully
+[2025-01-28 15:59:50] INFO logger: Database initialized successfully
+[2025-01-28 15:59:50] INFO logger: WebSocket connection established
+[2025-01-28 15:59:51] WARNING logger: WebSocket connection closed
+[2025-01-28 15:59:51] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:59:51] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 15:59:51] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:59:53] ERROR logger: Error processing data: 
+[2025-01-28 15:59:53] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:59:54] INFO logger: Stopped real-time data collection
+[2025-01-28 15:59:56] INFO logger: WebSocket connection established
+[2025-01-28 15:59:56] WARNING logger: WebSocket connection closed
+[2025-01-28 15:59:56] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:59:56] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 15:59:56] WARNING logger: Telegram credentials not configured
+[2025-01-28 15:59:56] INFO logger: Database initialized successfully
+[2025-01-28 15:59:56] INFO logger: Initialized binance exchange
+[2025-01-28 15:59:56] INFO logger: Initialized upbit exchange
+[2025-01-28 15:59:56] INFO logger: Database initialized successfully
+[2025-01-28 15:59:56] INFO logger: Initialized binance exchange
+[2025-01-28 15:59:56] INFO logger: Initialized upbit exchange
+[2025-01-28 15:59:56] INFO logger: Database initialized successfully
+[2025-01-28 15:59:56] INFO logger: Initialized binance exchange
+[2025-01-28 15:59:56] INFO logger: Initialized upbit exchange
+[2025-01-28 15:59:56] INFO logger: Database initialized successfully
+[2025-01-28 15:59:56] INFO logger: Initialized binance exchange
+[2025-01-28 15:59:56] INFO logger: Initialized upbit exchange
+[2025-01-28 16:04:08] INFO logger: 정보 메시지
+[2025-01-28 16:04:08] WARNING logger: 경고 메시지
+[2025-01-28 16:04:08] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:08] ERROR logger: 에러 메시지
+[2025-01-28 16:04:08] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:10] INFO logger: Connected to binance exchange
+[2025-01-28 16:04:10] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 16:04:11] INFO logger: Connected to binance exchange
+[2025-01-28 16:04:11] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 16:04:11] INFO logger: Database initialized successfully
+[2025-01-28 16:04:11] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 16:04:11] INFO logger: Database initialized successfully
+[2025-01-28 16:04:11] INFO logger: Database initialized successfully
+[2025-01-28 16:04:11] INFO logger: Database initialized successfully
+[2025-01-28 16:04:11] INFO logger: Database initialized successfully
+[2025-01-28 16:04:11] INFO logger: WebSocket connection established
+[2025-01-28 16:04:11] WARNING logger: WebSocket connection closed
+[2025-01-28 16:04:11] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:11] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 16:04:11] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:14] ERROR logger: Error processing data: 
+[2025-01-28 16:04:14] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:15] INFO logger: Stopped real-time data collection
+[2025-01-28 16:04:17] INFO logger: WebSocket connection established
+[2025-01-28 16:04:17] WARNING logger: WebSocket connection closed
+[2025-01-28 16:04:17] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:17] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 16:04:17] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:17] INFO logger: Database initialized successfully
+[2025-01-28 16:04:17] INFO logger: Initialized binance exchange
+[2025-01-28 16:04:17] INFO logger: Initialized upbit exchange
+[2025-01-28 16:04:17] INFO logger: Database initialized successfully
+[2025-01-28 16:04:17] INFO logger: Initialized binance exchange
+[2025-01-28 16:04:17] INFO logger: Initialized upbit exchange
+[2025-01-28 16:04:17] INFO logger: Database initialized successfully
+[2025-01-28 16:04:17] INFO logger: Initialized binance exchange
+[2025-01-28 16:04:17] INFO logger: Initialized upbit exchange
+[2025-01-28 16:04:17] INFO logger: Database initialized successfully
+[2025-01-28 16:04:17] INFO logger: Initialized binance exchange
+[2025-01-28 16:04:17] INFO logger: Initialized upbit exchange
+[2025-01-28 16:04:18] INFO logger: Database initialized successfully
+[2025-01-28 16:04:19] ERROR logger: Failed to initialize Web3: Failed to connect to the network
+[2025-01-28 16:04:19] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:19] INFO logger: Database initialized successfully
+[2025-01-28 16:04:19] ERROR logger: Error processing data: 
+[2025-01-28 16:04:19] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:20] ERROR logger: Failed to initialize Web3: Failed to connect to the network
+[2025-01-28 16:04:20] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:20] INFO logger: Database initialized successfully
+[2025-01-28 16:04:20] ERROR logger: Error processing data: 
+[2025-01-28 16:04:20] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:21] ERROR logger: Error processing data: 
+[2025-01-28 16:04:21] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:22] ERROR logger: Failed to initialize Web3: Failed to connect to the network
+[2025-01-28 16:04:22] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:22] INFO logger: Database initialized successfully
+[2025-01-28 16:04:22] WARNING logger: Collector is already running
+[2025-01-28 16:04:22] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:22] ERROR logger: Error processing data: 
+[2025-01-28 16:04:22] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:04:22] ERROR logger: Failed to initialize Web3: Failed to connect to the network
+[2025-01-28 16:04:22] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:05:57] INFO logger: 정보 메시지
+[2025-01-28 16:05:57] WARNING logger: 경고 메시지
+[2025-01-28 16:05:57] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:05:57] ERROR logger: 에러 메시지
+[2025-01-28 16:05:57] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:05:59] INFO logger: Connected to binance exchange
+[2025-01-28 16:05:59] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 16:06:00] INFO logger: Connected to binance exchange
+[2025-01-28 16:06:00] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 16:06:00] INFO logger: Database initialized successfully
+[2025-01-28 16:06:00] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 16:06:00] INFO logger: Database initialized successfully
+[2025-01-28 16:06:00] INFO logger: Database initialized successfully
+[2025-01-28 16:06:00] INFO logger: Database initialized successfully
+[2025-01-28 16:06:00] INFO logger: Database initialized successfully
+[2025-01-28 16:06:00] INFO logger: WebSocket connection established
+[2025-01-28 16:06:00] WARNING logger: WebSocket connection closed
+[2025-01-28 16:06:00] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:06:00] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 16:06:00] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:06:03] ERROR logger: Error processing data: 
+[2025-01-28 16:06:03] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:06:04] INFO logger: Stopped real-time data collection
+[2025-01-28 16:06:05] INFO logger: WebSocket connection established
+[2025-01-28 16:06:05] WARNING logger: WebSocket connection closed
+[2025-01-28 16:06:05] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:06:05] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 16:06:05] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:06:06] INFO logger: Database initialized successfully
+[2025-01-28 16:06:06] INFO logger: Initialized binance exchange
+[2025-01-28 16:06:06] INFO logger: Initialized upbit exchange
+[2025-01-28 16:06:06] INFO logger: Database initialized successfully
+[2025-01-28 16:06:06] INFO logger: Initialized binance exchange
+[2025-01-28 16:06:06] INFO logger: Initialized upbit exchange
+[2025-01-28 16:06:06] INFO logger: Database initialized successfully
+[2025-01-28 16:06:06] INFO logger: Initialized binance exchange
+[2025-01-28 16:06:06] INFO logger: Initialized upbit exchange
+[2025-01-28 16:06:06] INFO logger: Database initialized successfully
+[2025-01-28 16:06:06] INFO logger: Initialized binance exchange
+[2025-01-28 16:06:06] INFO logger: Initialized upbit exchange
+[2025-01-28 16:07:15] INFO logger: 정보 메시지
+[2025-01-28 16:07:15] WARNING logger: 경고 메시지
+[2025-01-28 16:07:15] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:07:15] ERROR logger: 에러 메시지
+[2025-01-28 16:07:15] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:07:17] INFO logger: Connected to binance exchange
+[2025-01-28 16:07:17] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 16:07:18] INFO logger: Connected to binance exchange
+[2025-01-28 16:07:18] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 16:07:18] INFO logger: Database initialized successfully
+[2025-01-28 16:07:18] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 16:07:18] INFO logger: Database initialized successfully
+[2025-01-28 16:07:18] INFO logger: Database initialized successfully
+[2025-01-28 16:07:18] INFO logger: Database initialized successfully
+[2025-01-28 16:07:18] INFO logger: Database initialized successfully
+[2025-01-28 16:07:18] INFO logger: WebSocket connection established
+[2025-01-28 16:07:18] WARNING logger: WebSocket connection closed
+[2025-01-28 16:07:18] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:07:18] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 16:07:18] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:07:21] ERROR logger: Error processing data: 
+[2025-01-28 16:07:21] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:07:22] INFO logger: Stopped real-time data collection
+[2025-01-28 16:07:24] INFO logger: WebSocket connection established
+[2025-01-28 16:07:24] WARNING logger: WebSocket connection closed
+[2025-01-28 16:07:24] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:07:24] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 16:07:24] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:07:24] INFO logger: Database initialized successfully
+[2025-01-28 16:07:24] INFO logger: Initialized binance exchange
+[2025-01-28 16:07:24] INFO logger: Initialized upbit exchange
+[2025-01-28 16:07:24] INFO logger: Database initialized successfully
+[2025-01-28 16:07:24] INFO logger: Initialized binance exchange
+[2025-01-28 16:07:24] INFO logger: Initialized upbit exchange
+[2025-01-28 16:07:24] INFO logger: Database initialized successfully
+[2025-01-28 16:07:24] INFO logger: Initialized binance exchange
+[2025-01-28 16:07:24] INFO logger: Initialized upbit exchange
+[2025-01-28 16:07:24] INFO logger: Database initialized successfully
+[2025-01-28 16:07:24] INFO logger: Initialized binance exchange
+[2025-01-28 16:07:24] INFO logger: Initialized upbit exchange
+[2025-01-28 16:07:25] INFO logger: Database initialized successfully
+[2025-01-28 16:07:25] ERROR logger: Failed to initialize Web3: Provider must be an instance of `BaseProvider` for `Web3`, got <class 'unittest.mock.MagicMock'>.
+[2025-01-28 16:07:25] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:07:25] INFO logger: Database initialized successfully
+[2025-01-28 16:07:25] ERROR logger: Failed to initialize Web3: Provider must be an instance of `BaseProvider` for `Web3`, got <class 'unittest.mock.MagicMock'>.
+[2025-01-28 16:07:25] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:09:08] INFO logger: 정보 메시지
+[2025-01-28 16:09:08] WARNING logger: 경고 메시지
+[2025-01-28 16:09:08] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:09:08] ERROR logger: 에러 메시지
+[2025-01-28 16:09:08] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:09:10] INFO logger: Connected to binance exchange
+[2025-01-28 16:09:10] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 16:09:10] INFO logger: Connected to binance exchange
+[2025-01-28 16:09:11] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 16:09:11] INFO logger: Database initialized successfully
+[2025-01-28 16:09:11] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 16:09:11] INFO logger: Database initialized successfully
+[2025-01-28 16:09:11] INFO logger: Database initialized successfully
+[2025-01-28 16:09:11] INFO logger: Database initialized successfully
+[2025-01-28 16:09:11] INFO logger: Database initialized successfully
+[2025-01-28 16:09:11] INFO logger: WebSocket connection established
+[2025-01-28 16:09:11] WARNING logger: WebSocket connection closed
+[2025-01-28 16:09:11] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:09:11] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 16:09:11] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:09:14] ERROR logger: Error processing data: 
+[2025-01-28 16:09:14] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:09:15] INFO logger: Stopped real-time data collection
+[2025-01-28 16:09:16] INFO logger: WebSocket connection established
+[2025-01-28 16:09:16] WARNING logger: WebSocket connection closed
+[2025-01-28 16:09:16] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:09:16] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 16:09:16] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:09:17] INFO logger: Database initialized successfully
+[2025-01-28 16:09:17] INFO logger: Initialized binance exchange
+[2025-01-28 16:09:17] INFO logger: Initialized upbit exchange
+[2025-01-28 16:09:17] INFO logger: Database initialized successfully
+[2025-01-28 16:09:17] INFO logger: Initialized binance exchange
+[2025-01-28 16:09:17] INFO logger: Initialized upbit exchange
+[2025-01-28 16:09:17] INFO logger: Database initialized successfully
+[2025-01-28 16:09:17] INFO logger: Initialized binance exchange
+[2025-01-28 16:09:17] INFO logger: Initialized upbit exchange
+[2025-01-28 16:09:17] INFO logger: Database initialized successfully
+[2025-01-28 16:09:17] INFO logger: Initialized binance exchange
+[2025-01-28 16:09:17] INFO logger: Initialized upbit exchange
+[2025-01-28 16:09:18] INFO logger: Database initialized successfully
+[2025-01-28 16:09:18] WARNING logger: Failed to connect to ethereum network
+[2025-01-28 16:09:18] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:09:18] ERROR logger: Error fetching transaction data: '<' not supported between instances of 'MagicMock' and 'int'
+[2025-01-28 16:09:18] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:09:59] INFO logger: 정보 메시지
+[2025-01-28 16:09:59] WARNING logger: 경고 메시지
+[2025-01-28 16:09:59] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:09:59] ERROR logger: 에러 메시지
+[2025-01-28 16:09:59] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:10:00] INFO logger: Connected to binance exchange
+[2025-01-28 16:10:00] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 16:10:01] INFO logger: Connected to binance exchange
+[2025-01-28 16:10:01] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 16:10:01] INFO logger: Database initialized successfully
+[2025-01-28 16:10:01] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 16:10:01] INFO logger: Database initialized successfully
+[2025-01-28 16:10:01] INFO logger: Database initialized successfully
+[2025-01-28 16:10:01] INFO logger: Database initialized successfully
+[2025-01-28 16:10:01] INFO logger: Database initialized successfully
+[2025-01-28 16:10:01] INFO logger: WebSocket connection established
+[2025-01-28 16:10:01] WARNING logger: WebSocket connection closed
+[2025-01-28 16:10:01] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:10:01] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 16:10:01] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:10:04] ERROR logger: Error processing data: 
+[2025-01-28 16:10:04] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:10:05] INFO logger: Stopped real-time data collection
+[2025-01-28 16:10:06] INFO logger: WebSocket connection established
+[2025-01-28 16:10:06] WARNING logger: WebSocket connection closed
+[2025-01-28 16:10:06] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:10:06] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 16:10:06] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:10:07] INFO logger: Database initialized successfully
+[2025-01-28 16:10:07] INFO logger: Initialized binance exchange
+[2025-01-28 16:10:07] INFO logger: Initialized upbit exchange
+[2025-01-28 16:10:07] INFO logger: Database initialized successfully
+[2025-01-28 16:10:07] INFO logger: Initialized binance exchange
+[2025-01-28 16:10:07] INFO logger: Initialized upbit exchange
+[2025-01-28 16:10:07] INFO logger: Database initialized successfully
+[2025-01-28 16:10:07] INFO logger: Initialized binance exchange
+[2025-01-28 16:10:07] INFO logger: Initialized upbit exchange
+[2025-01-28 16:10:07] INFO logger: Database initialized successfully
+[2025-01-28 16:10:07] INFO logger: Initialized binance exchange
+[2025-01-28 16:10:07] INFO logger: Initialized upbit exchange
+[2025-01-28 16:10:08] INFO logger: Database initialized successfully
+[2025-01-28 16:10:08] WARNING logger: Failed to connect to ethereum network
+[2025-01-28 16:10:08] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:11:24] INFO logger: 정보 메시지
+[2025-01-28 16:11:24] WARNING logger: 경고 메시지
+[2025-01-28 16:11:24] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:11:24] ERROR logger: 에러 메시지
+[2025-01-28 16:11:24] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:11:25] INFO logger: Connected to binance exchange
+[2025-01-28 16:11:25] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 16:11:26] INFO logger: Connected to binance exchange
+[2025-01-28 16:11:26] INFO logger: Successfully fetched 24 1h candles for BTC/USDT
+[2025-01-28 16:11:26] INFO logger: Database initialized successfully
+[2025-01-28 16:11:26] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 16:11:26] INFO logger: Database initialized successfully
+[2025-01-28 16:11:26] INFO logger: Database initialized successfully
+[2025-01-28 16:11:26] INFO logger: Database initialized successfully
+[2025-01-28 16:11:26] INFO logger: Database initialized successfully
+[2025-01-28 16:11:26] INFO logger: WebSocket connection established
+[2025-01-28 16:11:27] WARNING logger: WebSocket connection closed
+[2025-01-28 16:11:27] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:11:27] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 16:11:27] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:11:29] ERROR logger: Error processing data: 
+[2025-01-28 16:11:29] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:11:30] INFO logger: Stopped real-time data collection
+[2025-01-28 16:11:32] INFO logger: WebSocket connection established
+[2025-01-28 16:11:32] WARNING logger: WebSocket connection closed
+[2025-01-28 16:11:32] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:11:32] WARNING logger: Attempting to reconnect (1/5)
+[2025-01-28 16:11:32] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:11:32] INFO logger: Database initialized successfully
+[2025-01-28 16:11:32] INFO logger: Initialized binance exchange
+[2025-01-28 16:11:32] INFO logger: Initialized upbit exchange
+[2025-01-28 16:11:32] INFO logger: Database initialized successfully
+[2025-01-28 16:11:32] INFO logger: Initialized binance exchange
+[2025-01-28 16:11:32] INFO logger: Initialized upbit exchange
+[2025-01-28 16:11:32] INFO logger: Database initialized successfully
+[2025-01-28 16:11:32] INFO logger: Initialized binance exchange
+[2025-01-28 16:11:32] INFO logger: Initialized upbit exchange
+[2025-01-28 16:11:32] INFO logger: Database initialized successfully
+[2025-01-28 16:11:32] INFO logger: Initialized binance exchange
+[2025-01-28 16:11:32] INFO logger: Initialized upbit exchange
+[2025-01-28 16:11:33] INFO logger: Database initialized successfully
+[2025-01-28 16:11:33] WARNING logger: Failed to connect to ethereum network
+[2025-01-28 16:11:33] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:39:56] INFO logger: 테스트 메시지
+[2025-01-28 16:39:56] INFO logger: INFO: 테스트 메시지
+[2025-01-28 16:39:56] WARNING logger: WARNING: 테스트 메시지
+[2025-01-28 16:39:56] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:39:56] ERROR logger: ERROR: 테스트 메시지
+[2025-01-28 16:39:56] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:39:58] INFO logger: Connected to binance exchange
+[2025-01-28 16:39:59] INFO logger: Connected to binance exchange
+[2025-01-28 16:39:59] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 16:39:59] INFO logger: Database initialized successfully
+[2025-01-28 16:39:59] INFO logger: Database initialized successfully
+[2025-01-28 16:39:59] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 16:43:18] INFO logger: 테스트 메시지
+[2025-01-28 16:43:18] INFO logger: INFO: 테스트 메시지
+[2025-01-28 16:43:18] WARNING logger: WARNING: 테스트 메시지
+[2025-01-28 16:43:18] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:43:18] ERROR logger: ERROR: 테스트 메시지
+[2025-01-28 16:43:18] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:43:20] INFO logger: Connected to binance exchange
+[2025-01-28 16:43:21] INFO logger: Connected to binance exchange
+[2025-01-28 16:43:21] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 16:43:21] INFO logger: Database initialized successfully
+[2025-01-28 16:43:21] INFO logger: Database initialized successfully
+[2025-01-28 16:43:21] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 16:44:16] INFO logger: 테스트 메시지
+[2025-01-28 16:44:16] INFO logger: INFO: 테스트 메시지
+[2025-01-28 16:44:16] WARNING logger: WARNING: 테스트 메시지
+[2025-01-28 16:44:16] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:44:16] ERROR logger: ERROR: 테스트 메시지
+[2025-01-28 16:44:16] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:44:16] INFO logger: Connected to binance exchange
+[2025-01-28 16:44:17] INFO logger: Connected to binance exchange
+[2025-01-28 16:44:17] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 16:44:17] INFO logger: Database initialized successfully
+[2025-01-28 16:44:17] INFO logger: Database initialized successfully
+[2025-01-28 16:44:17] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 16:45:39] INFO logger: 테스트 메시지
+[2025-01-28 16:45:39] INFO logger: INFO: 테스트 메시지
+[2025-01-28 16:45:39] WARNING logger: WARNING: 테스트 메시지
+[2025-01-28 16:45:39] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:45:39] ERROR logger: ERROR: 테스트 메시지
+[2025-01-28 16:45:39] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:45:41] INFO logger: Connected to binance exchange
+[2025-01-28 16:45:42] INFO logger: Connected to binance exchange
+[2025-01-28 16:45:42] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 16:45:42] INFO logger: Database initialized successfully
+[2025-01-28 16:45:42] INFO logger: Database initialized successfully
+[2025-01-28 16:45:42] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 16:48:15] INFO logger: 테스트 메시지
+[2025-01-28 16:48:15] INFO logger: INFO: 테스트 메시지
+[2025-01-28 16:48:15] WARNING logger: WARNING: 테스트 메시지
+[2025-01-28 16:48:15] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:48:15] ERROR logger: ERROR: 테스트 메시지
+[2025-01-28 16:48:15] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:48:16] INFO logger: Connected to binance exchange
+[2025-01-28 16:48:17] INFO logger: Connected to binance exchange
+[2025-01-28 16:48:17] INFO logger: Successfully fetched 5 1h candles for BTC/USDT
+[2025-01-28 16:48:17] INFO logger: Database initialized successfully
+[2025-01-28 16:48:17] INFO logger: Database initialized successfully
+[2025-01-28 16:48:17] INFO logger: Stored 1 records for BTC/USDT (1m) from binance
+[2025-01-28 16:48:27] INFO logger: Connected to binance exchange
+[2025-01-28 16:48:27] INFO logger: Database initialized successfully
+[2025-01-28 16:48:27] INFO logger: 데이터 수집 시작: BTC/USDT
+[2025-01-28 16:48:27] INFO logger: Successfully fetched 100 1h candles for BTC/USDT
+[2025-01-28 16:48:27] INFO logger: 데이터 수집 완료: 100 레코드
+[2025-01-28 16:48:27] INFO logger: 데이터베이스 저장 시작
+[2025-01-28 16:48:27] INFO logger: Stored 100 records for BTC/USDT (1h) from binance
+[2025-01-28 16:48:27] INFO logger: 데이터베이스 저장 완료
+[2025-01-28 16:48:27] INFO logger: 저장된 데이터 조회
+[2025-01-28 16:48:27] INFO logger: 데이터 조회 완료
+[2025-01-28 16:48:27] INFO logger: 데이터 전처리 시작
+[2025-01-28 16:48:27] INFO logger: 이상치 제거 완료: 0개 제거됨
+[2025-01-28 16:48:27] INFO logger: 데이터 정규화 완료
+[2025-01-28 16:48:27] INFO logger: 데이터 파이프라인 검증 완료
+[2025-01-28 16:48:28] INFO logger: Connected to binance exchange
+[2025-01-28 16:48:28] INFO logger: Database initialized successfully
+[2025-01-28 16:48:28] WARNING logger: Attempt 1/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 16:48:28] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:48:33] WARNING logger: Attempt 2/3 failed: binance does not have market symbol INVALID/PAIR. Retrying in 5 seconds...
+[2025-01-28 16:48:33] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:48:38] ERROR logger: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+[2025-01-28 16:48:38] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:48:38] WARNING logger: No data to store for BTC/USDT
+[2025-01-28 16:48:38] WARNING logger: Telegram credentials not configured
+[2025-01-28 16:48:38] INFO logger: 빈 데이터프레임 처리 테스트 완료

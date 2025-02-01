@@ -1,61 +1,46 @@
 # log_config.yaml
 
-# 프로젝트 로깅 설정 파일
+# 로깅 설정 파일
 # 이 파일은 로깅 형식, 레벨, 파일 저장 경로 등을 정의하여 프로젝트의 모든 로그를 중앙에서 관리할 수 있도록 설정합니다.
 
 version: 1
-disable_existing_loggers: False
+disable_existing_loggers: false
 
 formatters:
-  detailed:
-    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-  simple:
-    format: '%(levelname)s - %(message)s'
+    standard:
+        format: '%(asctime)s [%(levelname)s] %(name)s: %(message)s'
+        datefmt: '%Y-%m-%d %H:%M:%S'
+    detailed:
+        format: '%(asctime)s [%(levelname)s] %(name)s:%(lineno)d: %(message)s'
+        datefmt: '%Y-%m-%d %H:%M:%S'
 
 handlers:
-  console:
-    class: logging.StreamHandler
-    level: DEBUG
-    formatter: simple
-    stream: ext://sys.stdout
+    console:
+        class: logging.StreamHandler
+        level: INFO
+        formatter: standard
+        stream: ext://sys.stdout
 
-  file_handler:
-    class: logging.FileHandler
-    level: INFO
-    formatter: detailed
-    filename: logs/project.log
+    file_handler:
+        class: logging.handlers.TimedRotatingFileHandler
+        level: DEBUG
+        formatter: detailed
+        filename: logs/trading_bot.log
+        when: midnight
+        interval: 1
+        backupCount: 30
+        encoding: utf8
 
-  error_handler:
-    class: logging.FileHandler
-    level: ERROR
-    formatter: detailed
-    filename: logs/error.log
-
-loggers:
-  project_logger:
-    level: DEBUG
-    handlers: [console, file_handler, error_handler]
-    propagate: False
+    error_file_handler:
+        class: logging.handlers.TimedRotatingFileHandler
+        level: ERROR
+        formatter: detailed
+        filename: logs/error.log
+        when: midnight
+        interval: 1
+        backupCount: 30
+        encoding: utf8
 
 root:
-  level: DEBUG
-  handlers: [console, file_handler]
-
----
-
-# 사용법
-# 로깅 설정을 적용하려면 다음과 같이 호출합니다:
-# import logging
-# import logging.config
-# import yaml
-#
-# with open('log_config.yaml', 'r') as file:
-#     config = yaml.safe_load(file)
-# logging.config.dictConfig(config)
-# logger = logging.getLogger('project_logger')
-# logger.info("로깅 설정 완료")
-
----
-
-# 파일 경로
-# **경로**: 최상위 디렉터리(`/`)
+    level: DEBUG
+    handlers: [console, file_handler, error_file_handler]

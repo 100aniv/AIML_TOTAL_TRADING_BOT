@@ -1,0 +1,60 @@
+2025-01-28 11:41:52 [ERROR] test_logger:31: Test error message
+2025-01-28 11:49:12 [ERROR] trading_bot:146: Error message
+2025-01-28 11:49:14 [ERROR] trading_bot:146: Error in removing outliers: 'c'
+2025-01-28 11:49:15 [ERROR] trading_bot:146: Failed to initialize Web3: Failed to connect to the network
+2025-01-28 11:55:05 [ERROR] trading_bot:146: Error message
+2025-01-28 11:55:07 [ERROR] trading_bot:146: Error in removing outliers: 'c'
+2025-01-28 11:55:08 [ERROR] trading_bot:146: Failed to initialize Web3: Failed to connect to the network
+2025-01-28 12:00:54 [ERROR] trading_bot:146: Error message
+2025-01-28 12:00:56 [ERROR] trading_bot:146: Failed to store data: table ohlcv has no column named index
+2025-01-28 12:02:02 [ERROR] trading_bot:146: Error message
+2025-01-28 12:12:37 [ERROR] trading_bot:146: Error message
+2025-01-28 12:12:40 [ERROR] trading_bot:146: Failed to initialize database: unable to open database file
+2025-01-28 12:15:28 [ERROR] trading_bot:146: Error message
+2025-01-28 12:15:33 [ERROR] trading_bot:146: Failed to initialize database: unable to open database file
+2025-01-28 12:39:54 [ERROR] trading_bot:146: Failed to store data: 'timestamp'
+2025-01-28 12:46:28 [ERROR] trading_bot:146: 파이프라인 테스트 실패: assert 0 > 0
+ +  where 0 = len(Empty DataFrame\nColumns: [timestamp, open, high, low, close, volume]\nIndex: [])
+2025-01-28 14:26:38 [ERROR] trading_bot:146: Error message
+2025-01-28 14:26:43 [ERROR] trading_bot:146: Failed to initialize database: unable to open database file
+2025-01-28 14:26:46 [ERROR] trading_bot:146: Failed to initialize Web3: Failed to connect to the network
+2025-01-28 14:36:19 [ERROR] trading_bot:146: Failed to store data: table ohlcv has no column named index
+2025-01-28 14:36:19 [ERROR] trading_bot:146: Failed to initialize database: unable to open database file
+2025-01-28 14:39:54 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+2025-01-28 14:40:05 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+2025-01-28 14:40:06 [ERROR] trading_bot:146: Failed to initialize database: unable to open database file
+2025-01-28 14:40:08 [ERROR] trading_bot:146: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+2025-01-28 14:40:09 [ERROR] trading_bot:146: Error fetching ETH/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+2025-01-28 14:40:09 [ERROR] trading_bot:146: ❌ 아비트라지 테스트 실패: 'ArbitrageCollector' object has no attribute 'calculate_arbitrage_opportunity'
+2025-01-28 14:42:09 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+2025-01-28 14:42:20 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+2025-01-28 14:42:21 [ERROR] trading_bot:146: Failed to initialize database: unable to open database file
+2025-01-28 14:42:23 [ERROR] trading_bot:146: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+2025-01-28 14:42:24 [ERROR] trading_bot:146: Error fetching ETH/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+2025-01-28 14:42:24 [ERROR] trading_bot:146: ❌ 아비트라지 테스트 실패: 'ArbitrageCollector' object has no attribute 'calculate_arbitrage_opportunity'
+2025-01-28 14:44:03 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+2025-01-28 14:44:15 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+2025-01-28 14:44:15 [ERROR] trading_bot:146: Failed to initialize database: unable to open database file
+2025-01-28 14:44:17 [ERROR] trading_bot:146: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+2025-01-28 14:44:18 [ERROR] trading_bot:146: Error fetching ETH/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+2025-01-28 14:44:18 [ERROR] trading_bot:146: ❌ 아비트라지 테스트 실패: calculate_arbitrage() missing 1 required positional argument: 'ticker2'
+2025-01-28 14:45:53 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+2025-01-28 14:46:04 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+2025-01-28 14:46:04 [ERROR] trading_bot:146: Failed to initialize database: unable to open database file
+2025-01-28 14:46:06 [ERROR] trading_bot:146: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+2025-01-28 14:46:07 [ERROR] trading_bot:146: Error fetching ETH/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+2025-01-28 14:46:07 [ERROR] trading_bot:146: ❌ 아비트라지 테스트 실패: 'binance'
+2025-01-28 14:47:58 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+2025-01-28 14:48:09 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+2025-01-28 14:48:09 [ERROR] trading_bot:146: Failed to initialize database: unable to open database file
+2025-01-28 14:48:11 [ERROR] trading_bot:146: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+2025-01-28 14:55:56 [ERROR] trading_bot:146: ❌ 텔레그램 알림 전송 실패: 'TestLogger' object has no attribute 'logger'
+2025-01-28 14:56:11 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+2025-01-28 14:56:22 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+2025-01-28 14:56:22 [ERROR] trading_bot:146: Failed to initialize database: unable to open database file
+2025-01-28 14:56:24 [ERROR] trading_bot:146: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'
+2025-01-28 14:58:19 [ERROR] trading_bot:146: ❌ 텔레그램 알림 전송 실패: 'TestLogger' object has no attribute 'logger'
+2025-01-28 14:58:34 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance does not have market symbol INVALID/PAIR
+2025-01-28 14:58:45 [ERROR] trading_bot:146: Failed to fetch data after 3 attempts: binance {"code":-1120,"msg":"Invalid interval."}
+2025-01-28 14:58:45 [ERROR] trading_bot:146: Failed to initialize database: unable to open database file
+2025-01-28 14:58:47 [ERROR] trading_bot:146: Error fetching BTC/USDT ticker from upbit: float() argument must be a string or a number, not 'NoneType'

@@ -10,8 +10,10 @@ ccxt            # 암호화폐 거래소 통합 라이브러리
 streamlit       # 데이터 애플리케이션 UI 개발 도구
 pyyaml          # YAML 파일 작업을 위한 라이브러리
 pytest          # 테스트 프레임워크
-stable-baselines3  # 강화 학습 라이브러리 (추가 필요)
-docker  # 컨테이너화 및 배포 도구 (추가 필요)
-plotly  # 대화형 데이터 시각화 (추가 필요)
-dash  # 대시보드 및 웹 애플리케이션 프레임워크 (추가 필요)
-redis  # 실시간 데이터 캐싱 및 메시지 브로커 (추가 필요)
+stable-baselines3  # 강화 학습 라이브러리
+docker          # 컨테이너화 및 배포 도구
+plotly          # 대화형 데이터 시각화
+dash            # 대시보드 및 웹 애플리케이션 프레임워크
+redis           # 실시간 데이터 캐싱 및 메시지 브로커
+pytest-asyncio  # 비동기 테스트를 위한 프레임워크
+textblob        # 텍스트 분석 및 자연어 처리 라이브러리
